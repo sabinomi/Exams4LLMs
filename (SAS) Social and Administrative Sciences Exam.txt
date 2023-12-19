@@ -1,0 +1,2182 @@
+﻿Simulador Examen Ciencias Sociales y Administrativas
+
+
+I. Matemáticas
+
+
+1. Dada la serie numérica 2, 6, 3, 7, 4, 8, …, ¿cuáles son los tres términos que siguen?
+
+
+Opciones:
+
+
+a) 5, 7, 6
+b) 5, 7, 4
+c) 5, 9, 6
+d) 5, 9, 4
+ 
+Respuesta: c
+
+
+2. Indicar cuál es el primer número en la sucesión: _, 13, 17, 24, 34
+
+
+Opciones:
+
+
+a) 0
+b) 7
+c) 9
+d) 12
+
+
+Respuesta: d
+
+
+3. Se desea cortar el mayor número de rectángulos para hacer morrales que miden 4 veces más largo que de ancho. Si el ancho de los morrales es de 0.2 m y la tela mide 20 x 20 m, ¿cuántos morrales se pueden obtener?
+
+
+ Opciones:
+
+
+a) 160
+b) 400
+c) 2500
+d) 6400
+Respuesta: c
+
+
+
+
+6. Resolver la siguiente igualdad:
+x/2 - 1/3  = -x/7 + 1/4   
+
+
+Opciones:
+
+
+a) 49/54
+b) 54/49
+c) 98/54
+d) 108/49
+
+
+Respuesta: a
+
+
+7. Si t +1 = 5, entonces t^2 + 1^2 es igual a:
+
+
+Opciones:
+
+
+a) 26
+b) 24
+c) 17
+d) 11
+
+
+Respuesta: c
+
+
+8. ¿Qué expresión representa al enunciado “la raíz cuadrada del cociente de la suma de dos números entre su diferencia”?
+
+
+Opciones:
+
+
+a) sqrt(a + b)/(a-b)
+b) sqrt((a+b)/(a-b))
+c) (sqrt(a)+sqrt(b))/(sqrt(a)+sqrt(b))
+d) (sqrt(a+b))(a-b)
+
+
+Respuesta: b
+
+
+9. La ecuación c=_ representa el costo total del artículo que cuesta x pesos con un impuesto de venta del 16%.
+
+
+Opciones:
+
+
+a) x+0.16
+b) x-0.16
+c) 0.16x
+d) 1.16x
+
+
+Respuesta: d
+
+
+10. Factorizar la expresión: 4*a^2-28*a*b+49*b^2
+
+
+Opciones:
+
+
+a) (2*a+7*b)^2
+b) (2*a-7*b)^2
+c) (2*a+7*b)(2*a-7*b)
+d) (4*a-7*b)(4*a-7*b)
+
+
+Respuesta: b
+
+
+11. Las ventas de una compañía pueden aproximarse mediante V= 12*x + 145, donde V representa las ventas totales en miles de millones de pesos. Si x es el número de años desde 2006, ¿en qué año las ventas alcanzarán los 205 mil millones de pesos?
+
+
+Opciones:
+
+
+a) 2008
+b) 2009
+c) 2010
+d) 2011
+
+
+Respuesta: d
+12. Resolver la siguiente ecuación logarítmica: log_a(2x +1) + log_a(4) = log_a(x-3) + log_a(12)
+
+
+
+
+Opciones:
+
+
+a) 0 
+b) 5
+c) 10
+d) 12
+
+
+Respuesta: c
+
+
+13. Un triángulo ___ es aquel que contiene un ángulo de 90 grados.
+
+
+Opciones:
+
+
+a) escaleno
+b) isósceles
+c) equilátero
+d) rectángulo
+
+
+Respuesta: d
+
+
+15. La identidad trigonométrica (1-csc(x))/tan(x) es igual a:
+ 
+Opciones:
+
+
+a) cot(x)*(1-sec(x))
+b) cot(x)*(1-sec(x))
+c) cot(x)*(1-csc(x))
+d) tan(x)*(1-sec(x))
+
+
+Respuesta: a
+
+
+17. La circunferencia es el conjunto de puntos en el ___ que se encuentran a una ___ constante de un punto fijo.
+
+
+Opciones:
+
+
+a) plano - distancia
+b) eje x - magnitud
+c) eje y - magnitud
+d) espacio - distancia
+
+
+Respuesta: a
+
+
+18. Identificar la ecuación de la circunferencia que tiene radio 6 y que es concéntrica a la circunferencia. x^2 + y^2 - 4*x + 6*y - 5 = 0
+
+
+Opciones:
+
+
+a) (x^2) * (y^2) - 4*x + 6*y - 23 = 0
+b) (x^2) + (y^2) + 4*x - 6*y + 36 = 0
+c) (x^2) + (y^2) - 4*x + 6*y - 36 = 0
+d) (x^2) + (y^2) + 4*x - 6*y + 23 = 0
+
+
+Respuesta: a
+
+
+19. Escribir la ecuación de la parábola con vértice en V(0,0) y foco F(4,0)
+
+
+Opciones:
+
+
+a) y^2 = -16*x
+b) y^2 = -4*x
+c) x^2 = 16*y
+d) y^2 = 16*x
+
+
+Respuesta: d
+
+
+20. Expresar el intervalo abierto (4, 19) mediante desigualdades.
+
+
+Opciones:
+
+
+a) (4 < x < 19) 
+b) (4 < x <= 19)
+c) (4 <= x < 19)
+d) (4 <= x <= 19)
+
+
+Respuesta: a
+
+
+21. Determinar la pendiente de la recta tangente a la curva en el plano con ecuación y = x^3 - x - 2 si x=1
+
+
+Opciones:
+
+
+a) 0
+b) 1
+c) 2
+d) 3
+
+
+Respuesta: c
+
+
+22. Obtener la derivada de la función y= (t^4)^(1/5)
+
+
+Opciones:
+
+
+a)  (5*(t)^(1/4))/4
+b) 5/(4*(t)^(1/4))
+c) 4/(5*(t)^(1/5))
+d) 4/(5*(t^5)^(1/4))
+
+
+Respuesta: c
+
+
+23. Encontrar la derivada de la función  y= (e^(2*x))^(1/3)
+Opciones:
+
+
+a) 2/(3*(e^x)^(1/3))
+b) -3/(2*(e^x)^(1/3))
+c) (2/3)*(e^(2*x))^(1/3)
+d) -(3/2)*(e^(2*x))^(1/3)
+
+
+Respuesta: c
+
+
+24. Indicar la derivada de la función f(x) = (x^2)*(e^-x)
+
+
+Opciones:
+
+
+a) 2*(x^2)*(e^-x)
+b) (x^2 - 2)*(e^-x)
+c) (2*x - x^2)*(e^-x)
+d) x*(e^-x) + x^2*e^-x
+
+
+Respuesta: c
+
+
+25. La integral de 2*x^3 * dx es
+
+
+Opciones:
+
+
+a) (6*x^2)/3 + C
+b) (2*x^4)+ C
+c) (x^4)/2 + C
+d) (x^3)/3 + C
+
+
+Respuesta: c
+
+
+26. Determinar la siguiente integral (t^3)^(1/2)*dt
+
+
+Opciones:
+
+
+a) (t^5)/5 + C 
+b) (5 * (t^2)^(1/5))/2 + C
+c) (5 *t *t^(1/2))/2 + C
+d) (2 *t^2*t^(1/2))/5 + C
+
+
+Respuesta: d
+
+
+
+
+27. Descomponer en fracciones parciales la integral (-5/(x^2-5*x))*dx
+
+
+Opciones:
+
+
+a) integral (-1/x) * dx + integral (1/(x-5))*dx
+b) integral (1/x) * dx + integral (1/(x-5))*dx
+c) integral (1/x) * dx + integral (-1/(x-5))*dx
+d) integral (-1/x) * dx + integral (-1/(x-5))*dx
+
+
+Respuesta: c
+
+
+28. Resolver la siguiente integral (3/(x-1) - 1/(3*x - 6))*dx
+
+
+Opciones:
+
+
+a) ln|((x-1)^3)/(x-2)| + C
+b) ln|((x-1)/(x-2))^3| + C
+c) ln|((x-1)^3)/(x-2)^(1/3)| + C
+d) ln|((x-1)^3)/(3*x-6)| + C
+
+
+Respuesta: c
+
+
+29. Determinar el valor de la siguiente integral definida: 2*Integral[2,4] x*dx
+
+
+
+
+Opciones:
+
+
+a) 12
+b) 6
+c) 16
+d) 20
+
+
+Respuesta: a
+
+
+30. Una línea de producción tiene 3 productos en 2 diferentes tamaños. ¿Cuántos eventos tiene el espacio muestral de los artículos  producidos?
+
+
+Opciones:
+
+
+a) 2
+b) 3
+c) 6
+d) 18
+
+
+Respuesta: c
+
+
+32. Cinco personas desean formar un comité directivo compuesto de un presidente, un vicepresidente, un secretario, un tesorero y un vocal. Determinar cuántas maneras hay para construir el comité.
+
+
+Opciones:
+
+
+a) 55 
+b) 80
+c) 100
+d) 120
+
+
+Respuesta: d
+
+
+33. Calcular el resultado del siguiente evento: “Se lanzan 3 veces una moneda y se desean conocer todos los posibles resultados donde caigan por lo menos 2 soles”
+
+
+Opciones:
+
+
+a) 2 
+b) 3
+c) 4
+d) 6
+
+
+Respuesta: b
+
+
+34. En un examen médico escolar se obtuvieron los siguientes datos:
+Estatura en centímetros        Cantidad de alumnos        Frecuencia Relativa
+De 146 a 149        5        0.125
+De 150 a 153        10        0.250
+De 154 a 157        5        0.125
+De 158 a 161        15        0.375
+De 162 a 165        5        0.125
+
+
+Calcular el porcentaje de estudiantes que miden más de 157 centímetros.
+
+
+Opciones:
+
+
+a) 37.5%
+b) 50.0%
+c) 62.5%
+d) 80.0%
+
+
+Respuesta: b
+
+
+35. La siguiente distribución muestra el tiempo de espera para la atención  de clientes en un banco. ¿Cuál es el valor de la moda?
+Tiempo de espera (minutos)        Número de clientes
+De 0 a 5        220
+De 6 a 11        82
+De 12 a 17        27
+De 18 a 23        15
+De 24 a 29        5
+De 30 a 35        1
+        
+Opciones:
+
+
+a) 25
+b) 27
+c) 88
+d) 220
+
+
+Respuesta: d
+
+
+
+II. Competencia lectora
+
+
+LECTURA 1. Leer el texto y responder las preguntas 36 a 45.
+
+
+GUILLERMO DEL TORO PAGARÁ EL VIAJE DEL EQUIPO MEXICANO A LA OLIMPIADA DE MATEMÁTICA
+
+
+[1] La sociedad Matemática Mexicana comenzó una recogida de fondos porque el presupuesto oficial no les alcanzaba.
+[2] El director de cine Guillermo del Toro se ofreció a pagar el billete de avión de los 12 integrantes del equipo de la Sociedad Matemática Mexicana, quienes buscaban fondos para poder acudir a la Olimpiada Internacional de Matemáticas (IMC, por sus siglas en inglés) que se celebrará el próximo agosto en Durban, Sudáfrica.
+[3] Guillermo del Toro (@RealGDT) A ver, les ofrezco cubrir los boletos de avión para todos los 12 integrantes del equipo de Olimpiadas Matemáticas en Sudáfrica. @CDMXOMM los signo- envíenme un DM por favor. Abrazos.
+MatemáticasCDMX (@CDMXOMM) Nuestros equipos olímpicos de primaria y secundaria siguen entrenando para hacer un buen papel en Sudáfrica. Seguimos recibiendo sus donativos, ustedes son parte de este #DreamTeamMéxico GRACIAS! @ommtw @smm_mx 
+[4] El mensaje del director La forma del agua acabó convirtiéndose en trending topic y obtuvo más de 76,000 ‘Me gusta’ y 20,000 ‘Compartidos’. Durante toda la tarde del viernes 24 el nombre de Guillermo del Toro se volvió tendencia junto a las palabras Sudáfrica y el hashtag #PorqueSoyMexicano.
+[5] El equipo forma parte de la Olimpiada de Matemáticas de la Ciudad de México, que a su vez tiene que ver con la Sociedad Matemática Mexicana. Esta organización comenzó una recogida de fondos para poder participar en la competición ya que mencionaron que el presupuesto que les dio el Consejo Nacional de Ciencia y Tecnología (Conacyt) no era suficiente para cubrir todos los gastos de la comitiva.
+[6] Un billete de avión a Sudáfrica desde México cuesta unos 1,000 dólares por persona. El equipo que asistirá a la competición está formado por cuatro alumnos de primaria, cuatro alumnos de preparatoria y cuatro profesores, encargados de formar y acompañar a los participantes. Desde @matematicasCDMX aclararon que les faltaba por comprar algunos boletos para Sudáfrica y que además aportará todo para el equipo que va a la Olimpiada Internacional de Matemáticas en Reino Unido. Desde la cuenta de la Olimpiada matemática de la Ciudad de México respondieron:
+[7] MatemáticasCDMX (@CDMXOMM) Emocionados, pero sobre todo motivados para darle a México lo que se merece, agradecemos a la comunidad tuitera y a otros donantes su apoyo a equipo olímpico rumbo a Sudáfrica, y al maestrísimo @RealGDT que además pagará viaje equipo a Bath, Reino Unido #porquesoymexicano
+
+
+36. Dado el texto anterior, identificar la sección del texto en la que se encuentra la entrada o lead.
+
+
+Opciones: 
+
+
+a) 1 
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: b
+
+
+37. La lectura anterior es un texto ___ del tipo ___ llamado ___ por el contenido que presenta.
+
+
+Opciones:
+
+
+a) expositivo - periodístico - noticia
+b) periodístico - informativo - noticia
+c) expositivo - periodístico - reportaje
+d) periodístico - informativo - reportaje
+
+
+Respuesta: b
+
+
+38. Seleccionar la sección en donde se encuentre una idea terciaria del texto anterior.
+
+
+Opciones:
+
+
+a) 3
+b) 4
+c) 5
+d) 6
+
+
+Respuesta: b
+
+
+39. El segmento [3] de la lectura anterior presenta la tipología textual de la _ debido a las características con las que cuenta.
+
+
+Opciones:
+
+
+a) narración
+b) exposición
+c) descripción
+d) argumentación
+
+
+Respuesta: d
+
+
+40. Relacionar el elemento básico de la noticia con la sección en la que se encuentra.
+Elemento        Sección
+1. ¿Cuándo?        A. [1]
+2. ¿Por qué?        B. [2]
+3. ¿Qué?        C. [3]
+        D. [4]
+        E. [5]
+        F. [6]
+
+
+Opciones:
+
+
+a) 1C, 2E, 3F 
+b) 1D, 2E, 3B
+c) 1C, 2E, 3B
+d) 1D, 2A, 3F
+
+
+Respuesta: c
+
+
+41. ¿Cuál de las siguientes afirmaciones es compatible con el texto anterior?
+
+
+Opciones:
+
+
+a) Guillermo del Toro es fanático de las matemáticas
+b) Se comparten más las noticias buenas que las malas
+c) Los alumnos de secundaria no destacan en las matemáticas
+d) El presidente de México recibe a los profesores en sus oficinas
+
+
+Respuesta: b
+
+
+42. De acuerdo a la lectura anterior, ¿qué es posible afirmar acerca de Guillermo del Toro?
+
+
+Opciones:
+
+
+a) Se nota que su red social favorita es Twitter
+b) Busca ser el mexicano más querido y popular
+c) Es una persona altruista, dadivosa y carismática
+d) En su juventud participó en alguna Olimpiada de Matemáticas
+
+
+Respuesta: b
+
+
+43. Seleccionar la sección en donde se encuentre una idea terciaria del texto anterior.
+
+
+Opciones:
+
+
+a) La Sociedad Matemática Mexicana administró mal los fondos que se les proporcionaron 
+b) Los billetes de avión para Sudáfrica han aumentado drásticamente y rápidamente sus precios
+c) Más de una decena de personas forma parte del equipo que asistirá a la Olimpiada Internacional de Matemáticas
+d) Guillermo del Toro solicitó que más personas actuaran como donantes para cubrir los gastos del equipo olímpico
+
+
+Respuesta: c
+
+
+44. El autor de la lectura anterior escribió el texto con la finalidad de _ a los lectores.
+
+
+Opciones:
+
+
+a) alentar
+b) informar
+c) conmover
+d) convencer
+
+
+Respuesta: b
+
+
+45. En el texto anterior, indicar la sección de la lectura en la que se encuentra la conclusión del texto.
+
+
+Opciones:
+
+
+a) 4
+b) 5
+c) 6
+d) 7
+
+
+Respuesta: d
+
+
+LECTURA 2. Leer el texto y responder las preguntas 46 a 55.
+
+
+LA PETICIÓN DE ARISTÓTELES
+
+
+[1] Las falacias son argumentos que parecen válidos, pero que en realidad no lo son; forman parte de una antigua práctica argumentativa denunciada por Sócrates en su enfrentamiento con los sofistas y cuyo estudio sistemático emprendió Aristóteles. Veamo algunas de ellas:
+[2] Falacia ad verecundiam o falacia de autoridad: Se apela a la autoridad o prestigio de alguien para defender un argumento, pero sin importar ninguna otra razón válida.
+[3] Falacia post hoc ergo propter hoc (tras ello, luego a partir de ello): Si un hecho sucede después de otro es que ese segundo hecho es consecuencia del primero.
+[4] Falacia ad hominem: Se desacredita al emisor y se le ataca utilizando alguna característica de su persona que no tiene nada que ver con la argumentación.
+[5] Falacia ad populum: Sucede cuando la validez de una afirmación se basa en la cantidad de gente que apoya la premisa y no en el argumento mismo.
+[6] Falacia ad ignorantiam: Es el argumento que defiende como verdad un hecho sólo porque no se puede demostrar su contrario.
+[7] Falacia ad consequentiam: Afirma que un argumento es falso solo porque las consecuencias indirectas sean negativas o viceversa.
+[8] Si el lenguaje no fuera ambiguo y dependiente del contexto, si no hubiera un plano connotativo distinto para cada persona e inevitablemente ligado a sus experiencias individuales, prácticamente no habría falacias, puesto que las falsedades serían evidentes y habría muy poco margen para la ambigüedad.
+[9] Como vimos, el primero que estudió sistemáticamente las falacias lógicas y argumentativas fue Aristóteles. Un estudio que debió agudizar al máximo su conciencia del peligro de los malentendidos, por lo que no es sorprendente que cuando le preguntaron: “Si pudieras pedirles a los dioses algo que beneficiaria a toda la humanidad, ¿qué le pedirías?, él contestara: “Pediría que hicieran que las palabras significaran lo mismo para todos”.
+[10] ¿Te parece acertada la petición de Aristóteles? ¿Qué les pedirías tú a los dioses para beneficiar a la humanidad? 
+
+
+46. Relacionar la columna de estructura con el contenido del texto anterior.
+Estructura        Contenido
+1. Introducción        A. Lo subjetivo de la lengua
+2. Desarrollo        B. Definición de contextos claves y contexto necesario
+3. Conclusión        C. Algunas paradojas
+
+
+Opciones:
+
+
+a) 1A, 2B, 3C
+b) 1B, 2C, 3A
+c) 1A, 2C, 3B
+d) 1B, 2A, 3C
+
+
+Respuesta: b
+
+
+48. Indicar el párrafo que contiene la idea principal del texto anterior. 
+
+
+Opciones:
+
+
+a) 1
+b) 8
+c) 9
+d) 10
+
+
+Respuesta: b
+
+
+49. De acuerdo al texto anterior, relacionar el número del párrafo con la tipología textual que muestra predominantemente.
+Párrafo        Tipología textual
+1. [1]        A. Narrativo
+2. [4]        B. Expositiva
+3. [9]        C. Descriptiva
+4. [10]        D. Argumentativa
+
+
+Opciones:
+
+
+a) 1B, 2C, 3A, 4D
+b) 1C, 2A, 3D, 4B
+c) 1B, 2A, 3C, 4D
+d) 1C, 2D, 3A, 4B
+
+
+Respuesta: a
+
+
+50. Relacionar la falacia con su ejemplo.
+
+
+Falacia        Ejemplo
+1. Ad verecundiam        A. Primero vi un relámpago y luego escuché un trueno. El relámpago es la causa del trueno.
+2. Post hoc ergo propter hoc        B. Pedro no hizo trampa en el examen, sino lo hubieran reprobado.
+3. Ad ignorantiam        C. Hay que comer frutas y verduras porque lo dijo el doctor.
+4. Ad consequentiam        D. Como no se ha encontrado vida en otros planetas, es un hecho que no hay vida extraterrestre.
+
+
+Opciones:
+
+
+a) 1D, 2C, 3B, 4A
+b) 1C, 2A, 3D, 4B
+c) 1D, 2B, 3C, 4B
+d) 1C, 2B, 3D, 4A
+
+
+Respuesta: b
+
+
+51. ¿Qué idea es compatible con el párrafo [8]?
+
+
+Opciones:
+
+
+a) Las falacias se sostienen en la subjetividad de la lengua 
+b) El lenguaje siempre se verá condicionado por la veracidad de las falacias
+c) Quien note lo ambiguo del lenguaje será capaz de formular falacias excepcionales. 
+d) Las falacias son parte de la lengua, por lo tanto, también de los seres humanos.
+
+
+Respuesta: a
+
+
+52. Seleccionar la deducción que puede desprenderse del texto anterior.
+
+
+Opciones:
+
+
+a) Los seres humanos construimos significados propios de las palabras 
+b) Las mentiras y las falacias son sinónimos y se pueden utilizar indistintamente 
+c) Aún quedan muchas más falacias por descubrir debido a la complejidad del ser humano
+d) Las falacias han existido desde el inicio de la humanidad sólo que no hay pruebas de ello
+
+
+Respuesta: a
+
+
+53. Indicar cuál es una inferencia del texto anterior.
+
+
+Opciones:
+
+
+a) El lenguaje debe ser objetivo y lógico para que no sea falaz 
+b) Todos han utilizado al menos una vez la falacia ad ignoratiam
+c) La falacia ad populum es la más utilizada debido a su naturaleza
+d) Dentro de la argumentación y en algunos casos, es admisible el uso de falacias
+
+
+Respuesta: a
+
+
+54. ¿Cuál es la intención comunicativa del autor en el párrafo [10]?
+
+
+Opciones:
+
+
+a) Construir un cierre memorable
+b) Reforzar el aprendizaje adquirido
+c) Iniciar un diálogo con los lectores
+d) Fomentar el pensamiento crítico del lector
+
+
+Respuesta: a
+
+
+55. ¿Cuál es la intención comunicativa del texto anterior?
+
+
+Opciones:
+
+
+a) Caracterizar detalladamente las falacias y el origen de las mismas
+b) Contar la historia de Aristóteles y su estudio de la argumentación
+c) Invitar al lector a la reflexión a través de argumentos y explicaciones
+d) Explicar claramente todo lo relacionado con la argumentación y el lenguaje
+
+
+Respuesta: 
+
+
+56. Indicar la parte del siguiente texto sin errores de redacción:
+
+Ayer salimos a caminar por la montaña y vimos el águila blanco del que nos contaste [1], se quedó quieta porque no había ninguna alma más que nosotros [2], así que aprovechamos y tomamos muchas fotografías, veintiuna en total [3], pero nos fuimos rápidamente porque no queríamos encontrarnos con un lince hembra y que nos atacara [4].
+
+
+Opciones:
+
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: c
+
+
+57. Seleccionar la opción bien redactada.
+
+
+Opciones:
+
+
+a) Las personas con quien nos relacionamos cada día son muy importantes
+b) Hay textos de escritores posmodernos que generalmente son cuestionados
+c) Este es el tema que te había comentado la semana pasada en el descanso
+d) Yo opino que la compañía debe ser quien dé el primer paso a modo de ejemplo
+
+
+Respuesta: a
+
+
+58. Completar la siguiente oración con la forma correcta:
+        Yo soy de _ que es mejor pedir perdón que pedir permiso.
+
+
+Opciones:
+a) los que cree
+b) quienes cree
+c) los que creen
+d) quienes creen
+
+
+Respuesta: c
+
+
+59. Relacionar la forma con los ejemplos correspondientes:
+        Forma        Ejemplos
+        1. Correcta        A. Desde la ventana se ven a los alumnos jugando bote pateado en el recreo.
+        2. Incorrecta        B. Debido al triunfo de México, hubo una gran cantidad de personas celebrando. 
+                        C. Llegaron desde las nueve de la mañana el aspirante acompañado de sus padres.
+                        D. A mi mamá le bastan un par de miradas de advertencia para mantenernos calmados.
+
+
+Opciones:
+
+
+a) 1AC, 2BD
+b) 1BD, 2AC
+c) 1AD, 2BC
+d) 1BC, 2AD
+
+
+Respuesta: b
+
+
+60. Identificar la idea que rompe la coherencia del texto:
+
+
+En realidad, la remolacha se compone de dos verduras: la acelga, en sus hojas, y la remolacha, en su raíz carnosa [1]. La raíz tomó protagonismo culinario en la antigua Roma y la perdió con ella [2]. Nada más injusto que la fama de la acelga de ser una verdura aburrida, dado que es muy nutritiva [3]. El descubrimiento fue clave para su recuperación siglos después bajo la variación de azúcar de su procesamiento fue clave para su recuperación siglos después bajo la variación de la remolacha azucarera [4].
+
+
+Opciones:
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: c
+
+
+61. Seleccionar el fragmento del texto que expresa su idea principal.
+Según el investigador y filósofo Prudencio Bustos Argañaraz [1], están los apellidos toponímicos o solariegos, los de gentilicio y los descriptivos [2]. Los toponímicos tienen que ver con el lugar de procedencia, si eres Toledo, de Ávila o incluso de la Sierra, del Río, del Castillo [3]. Aquí se ponían bien creativos, porque salieron hasta los apellidos Piedra, Barranca, Peña [4].
+
+
+Opciones:
+
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: b
+
+
+62. Ordenar los siguientes fragmentos para formar un texto coherente.
+1. Eso sí, según señala el Diccionario Panhispánico de Dudas, en la actualidad hay focos leístas en Hispanoamérica.
+2. El leísmo se desarrolló en Madrid, y allí al norte de la península, cuando la colonización estaba en marcha.
+3. ¿Te enojas cuando escuchas a algún español del centro de la península utilizar ‘le’ donde debería ser ‘la’, ‘lo’ o sus plurales? No te pasará con un hipanoamericano.
+4. Todo se lo debemos a los andaluces que colonizaron América y que llevaron, cómo no, sus hablas. En aquel entonces, entre 1493 y 1600, no existía el leísmo en las hablas andaluzas.
+
+
+Opciones:
+
+
+a) 2, 4, 3, 1
+b) 3, 2, 1, 4
+c) 2, 3, 1, 4
+d) 3, 4, 2, 1
+
+
+Respuesta: d
+
+
+63. Completar, en el siguiente texto, los espacios con los conectores adecuados.
+
+
+Según la escala, los valores asignados aumentan de forma logarítmica _ no de forma lineal, de forma similar a la escala de magnitud estelar empleada en astronomía _ poder medir el brillo de las estrellas. _, un terremoto de intensidad 4 no es el doble que uno de intensidad 2, _ 100 veces superior así de forma sucesiva. 
+
+
+Opciones:
+
+
+a) o - así, Para - pero
+b) y - para - Así - sino
+c) y - y - Como - más bien
+d) o - pero - Entonces - sin embargo 
+
+
+Respuesta: b
+
+
+64. ¿Qué opción corrige el texto?
+Las emociones deben estar activas solo por lo necesario. Las emociones se regulan entre sí. Después de un suceso que provoque la emoción alegría, la emoción positiva será sustituida por una emoción negativa. Emocionalmente seremos neutros con rapidez.
+
+
+Opciones:
+
+
+a) Las emociones positivas y negativas se regulan entre sí para estar activas lo mínimo necesario y lo hacen a través de que si sucede algo alegre, lo negativo aparece para equilibrar a la anterior y así regularse para estar neutros emocionalmente rápidamente.
+b) Las emociones deben estar activas lo estrictamente necesario: las emociones positivas y negativas se regulan entre sí. Así pues, después de un suceso que provoque alegría, la emoción positiva será sustituida por una emoción negativa para anular la anterior y así regresar a una situación emocionalmente neutra con rapidez.
+c) Las alteraciones del ánimo deben estar activas lo estrictamente necesario, por eso las emociones positivas y negativas se regulan entre sí. Es decir, después de un suceso que cause alegría, la emoción positiva será sustituida por una negativa para anular la anterior y así regresar a una situación emocionalmente neutra con rapidez.
+d) Las alteraciones del ánimo deben estar activas sólo lo necesario, y así las emociones positivas y negativas se autorregulan entre sí. Por ejemplo, después de un suceso que produzca alegría, dicha emoción será sustituida por una negativa para neutralizar, a la anterior y así regresar a una situación emocionalmente neutra rápidamente.
+
+
+Respuesta: c
+
+
+65. Con base en las siguientes ideas, ¿cuál es la opción con el texto mejor escrito?
+
+
+1. El invierno es mi estación del año favorita
+2. Mi hermano estudia en el extranjero
+3. Mi hermano tiene vacaciones en invierno
+4. Mi hermano nos visita en invierno
+5. Todos los miembros de la familia comen las galletas
+
+
+Opciones:
+
+
+a) El invierno es mi estación del año favorita porque mi hermano sale de vacaciones y nos visita y, como ya es tradición anual, horneamos galletas para toda nuestra familia.
+b) El invierno es mi estación del año favorita: mi hermano está estudiando en el extranjero, aunque todos los años le dan vacaciones en invierno y nos visita y horneamos galletas para todos los miembros de la familia.
+c) El invierno es mi estación favorita dado que mi hermano estudia en el extranjero y tiene vacaciones en esta época del año. Todos los años nos visita en invierno y horneamos galletas para toda la nuestra familia.
+d) El invierno es mi estación del año favorita porque mi hermano está estudiando en el extranjero, pero todos los años tiene vacaciones en esta época del año así que viene a visitarnos y, como ya es tradición anual, horneamos galletas para toda nuestra familia. 
+
+
+Respuesta: 
+
+
+66. Seleccionar la opción que es sinónimo de una palabra del siguiente texto:
+Siempre me despertó suspicaz atención el uso del lenguaje que los publicistas realizan para impactar sobre los usuarios y consumidores.
+
+
+Opciones:
+
+
+a) Reticente
+b) Melindroso
+c) Quisquilloso
+d) Resentimiento
+
+
+Respuesta: a
+
+
+67. De las opciones, ¿cuál expresa lo mismo que la siguiente frase?
+Juan no vendrá porque tiene una resaca muy fuerte.
+
+
+Opciones: 
+
+
+a) Juan no vendrá porque trae una cruda infame
+b) Juan no podrá asistir ya que le pegó duro el sueño
+c) Juan no vendrá porque trae una cruda marca diablo
+d) Juan no podrá asistir ya que está fuertemente enfermo
+
+
+Respuesta: c
+
+
+68. Seleccionar la opción escrita correctamente.
+
+
+Opciones:
+
+
+a) Al fin, hallaron las llaves perdidas de Pedro
+b) Siempre gravo las presentaciones de mi hija
+c) Después de una gran rabieta, por fin se calló
+d) Me castigaron por rallar la banca de la escuela
+
+
+Respuesta: a
+
+
+69. Completar el siguiente texto con los signos de puntuación adecuados:
+Las piezas de la muestra resultan llamativas por distintas razones _ algunos óleos de Orozco _ un óleo de la poeta Alice Rahon titulado Ofelia sobrentendida _ en el que se distinguen las ramitas caídas sobre el agua y las plantas acuáticas _ y un retrato de Lucía Maya con un rostro de perturbadora simetría.
+
+
+Opciones:
+
+
+a) Punto, coma, coma, coma,
+b) Coma, dos puntos, coma, punto
+c) Dos puntos, punto y coma, coma, coma
+d) Puntos suspensivos, punto y coma, coma, punto y coma
+
+
+Respuesta: c
+
+
+70. Identificar el fragmento del texto con un error de redacción.
+
+
+La tienda departamental realizó un concurso y el premio para el primer lugar fue un clóset de madera [1], pero algo hicieron mal y hubo muchos ganadores del primer lugar [2]. Los concursantes se sorprendieron mucho al saber que había más de un ganador del primer lugar [3] por lo que se organizaron a través de un grupo de WhatsApp para acudir con las autoridades correspondientes y realizar una denuncia [4].
+
+
+Opciones:
+
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: a
+
+
+71. Indicar el párrafo redactado correctamente.
+
+
+Opciones:
+
+
+a) El blanco es un adjetivo que el castellano tomó del alemán en la Edad Media en la época de las invasiones germánicas en la Península Ibérica y, del que hay constancia documental, ya en el siglo XII. Pero, antes de eso el color blanco se designaba por el vocablo albo (procedente del latín) y con el que los antiguos romanos designaban ese color.
+b) El blanco es un adjetivo que el castellano tomó del alemán en la Edad Media en la época de las invasiones germánicas en la Península Ibérica y del que hay constancia documental, ya en el siglo XII. Pero, antes de eso, el color blanco se designaba por el vocablo “albo” procedente del latín y con el que los antiguos romanos designaban ese color.
+c) El blanco es un adjetivo que el castellano tomó del alemán en la Edad Media, en la época de las invasiones germánicas en la Península Ibérica y del que hay constancia documental ya en el siglo XII. Pero, antes de eso, el color blanco se designaba por el vocablo “albo”, procedente del latín y con el que los antiguos romanos designaban ese color.
+d) El blanco es un adjetivo que el castellano tomó del alemán en la Edad Media (en la época de las invasiones germánicas en la Península Ibérica) y del que hay constancia documental ya en el siglo XII. Pero, antes de eso el color blanco se designaba por el vocablo albo, procedente del latín y con el que los antiguos romanos designaban ese color.
+
+
+Respuesta: c
+
+
+72. Seleccionar la opción mejor redactada.
+
+
+Opciones:
+
+
+a) Como separador de páginas encontré una nota en uno de mis libros de mi biblioteca: cuando al mentiroso que afirma estar mintiendo se le pregunta si lo está haciendo y él responde que sí. ¿Estará diciendo la verdad? 
+b) A modo de separador de páginas encontré una nota en uno de los libros de mi biblioteca: Cuando al mentiroso, que afirma estar mintiendo, se le pregunta si lo está haciendo y responde que sí: ¿Está diciendo la verdad?
+c) A modo de separador de páginas, encontré una nota en uno de los libros de mi biblioteca: “cuando un mentiroso afirma estar mintiendo y se le pregunta si lo está haciendo y éste responde que sí, ¿está diciendo la verdad?
+d) Como separador de páginas, encontré una nota en uno de los libros de mi biblioteca: “cuando un mentiroso afirma estar mintiendo y se le pregunta si lo está haciendo y éste responde que sí, ¿está diciendo la verdad? 
+
+
+Respuesta: d
+
+
+74. De las siguientes oraciones, ¿cuáles presentan un error de redacción?
+
+
+1. Lo que más recuerdo de ese día es a la mujer saltando de felicidad.
+2. La tía se cayó inesperadamente, haciendo que todos volteáramos rápidamente.
+3. El día de ayer en el puente de Tasquillo chocó el camión, muriendo diez personas.
+4. Anoche no pude dormir muy bien porque escuché al gato maullando toda la noche.
+
+
+Opciones:
+
+
+a) 1, 2 
+b) 2, 3
+c) 2, 4 
+d) 1, 3
+
+
+Respuesta: b
+
+
+75. Completar la oración con la forma correcta:
+Esta es la tienda _  paso todos los días.
+
+
+
+
+
+
+
+
+Opciones:
+
+
+a) porque
+b) porqué
+c) por que
+d) por qué
+
+
+Respuesta: c
+
+
+76. Indicar el párrafo mejor redactado.
+ 
+Opciones:
+
+
+a) Todas las estructuras del arquitecto italiano Andrea Palladio, como las villas, basílicas y puentes en Venecia, otros edificios de tipo Palladiano de épocas posteriores, desde el salón de banquetes del Palacio de Whitehall en Londres, hasta la Casa Blanca en Estados Unidos, están en deuda con Vitruvio.
+b) Todas las estructuras del arquitecto italiano Andrea Palladio (como las villas, basílicas y puentes en Venecia); otros edificios de tipo Palladiano de épocas posteriores: desde el salón de banquetes del Palacio de Whitehall en Londres hasta la Casa Blanca en Estados Unidos, están en deuda con Vitruvio.
+c) Todas las estructuras del Arquitecto italiano Andrea Palladio, como: las villas, basílicas y puentes en Venecia, otros edificios de tipo palladiano de épocas posteriores, desde el Salón de Banquetes del Palacio de Whitehall en Londres, hasta la Casa Blanca en Estados Unidos, están en deuda con Vitruvio.
+d) Todas las estructuras del arquitecto italiano Andrea Palladio (las villas, basílicas y puentes en Venecia), así como otros edificios de tipo palladiano de épocas posteriores, desde el salón de banquetes del Palacio de Whitehall en Londres hasta la Casa Blanca en Estados Unidos, están en deuda con Vitruvio.
+
+
+Respuesta: d
+
+
+77. ¿Cuáles de las siguientes opciones presenta la mejor redacción?
+Opciones:
+
+
+a) Una inteligente y estresada profesora de matemáticas va a la boda de su padre donde se enamora del hijo de la novia (un jugador de béisbol profesional retirado prematuramente). Deberá elegir entre él y su novio: un hombre divorciado; entre Chicago y Nueva York entre la investigación y la administración.
+b) Una inteligente y estresada profesora de matemáticas va a la boda de su padre donde se enamora del hijo de la novia: un jugador de béisbol profesional retirado prematuramente. Deberá elegir entre él y su novio: un hombre divorciado, entre Chicago y Nueva York y entre la investigación y la administración.
+c) Una inteligente, pero estresada profesora de matemáticas, va a la boda de su padre y se enamora del hijo de la novia, un jugador de béisbol profesional retirado prematuramente. Deberá elegir entre él y su novio (un hombre divorciado) entre Chicago y Nueva York, entre la investigación y la administración.
+d) Una inteligente pero estresada profesora de matemáticas va a la boda de su padre y se enamora del hijo de la novia, un jugador de béisbol profesional retirado prematuramente. Deberá elegir entre él y su novio, un hombre divorciado, entre Chicago y Nueva York, entre la investigación y la administración.
+
+
+Respuesta: d
+
+
+78. ¿Cuál de las siguientes opciones es el objetivo general de la investigación Efecto del cambio climático en la distribución de cinco especies arbóreas de México realizada por Erick Eduardo Gutiérrez Estrada en 2010?
+
+
+Opciones:
+
+
+a) Describir las probabilidades de ocurrencia de las especies en las condiciones climáticas en las que se desarrollan 
+b) Evaluar el posible impacto del cambio climático en la distribución de cinco especies de árboles de importancia mexicana
+c) Evaluar el efecto del cambio climático de acuerdo a diferentes modelos de circulación general, escenarios de emisiones y horizontes de tiempo
+d) Reconocer las condiciones climáticas de tres especies de coníferas y de dos encinos que se establecen actualmente en las partes altas de las montañas de México.
+
+
+Respuesta: b
+
+
+79. ¿Qué parte del trabajo académico expone un balance general del proyecto realizado además de contar con contenido propio?
+
+
+Opciones:
+
+
+a) Cuerpo
+b) Desarrollo
+c) Conclusión
+d) Introducción
+
+
+Respuesta: c
+
+
+80. A partir de los siguientes datos, ¿qué tipo de referencia en formato APA puede elaborarse?
+
+
+1. Cómo hacer una tesis: técnicas y procedimientos
+2. Eco, Humberto
+3. Barcelona
+4. Gedisa
+5. 2001
+6. pp. 134-155
+
+
+Opciones:
+
+
+a) Parentética
+b) Notas al pie
+c) Bibliográfica
+d) Cita directa
+
+
+Respuesta: c
+
+
+Inglés | Reading Comprehension 
+
+
+81.  The word marked in parenthesis 1 refers to:
+
+
+Hi! My name’s Gabriela McMahons. I’m 16 years old. I’m American. I’ve got a big collection of songs online. My favorite singers are Taylor Swift, Britney Spears, and Selena Gomez, I really love them (1). My father is called Jhon. He’s from Mexico and my mother’s from Spain, her name’s Sofia.
+
+
+Opciones:
+
+
+a) pets - sports
+b) music - sports
+c) music - movies
+d) sports - video games
+
+
+Respuesta: a
+
+
+82. Match the names with the correct Michel’s family relationships.
+
+
+Hello! My name’s is Michel. I’ve got a small family. It’s just my mother Rosy and me. My extended family is made up by my grandparents Gaby and Maurice, my three uncles, Jhon, Marc and Anthony and their wives, one aunt Sofia and six cousins. My best friend Paul has got a large family because he’s got 4 brothers and 3 sisters and too many relatives.
+
+
+Name                Family relationship
+1. Gaby        A. Grandmother
+2. Jhon        B. Mother
+3. Rosy        C. Uncle
+4. Sofy        D. Aunt
+
+
+Opciones:
+
+
+a) 1D, 2A, 3C, 4B
+b) 1A, 2C, 3B, 4D
+c) 1D, 2C, 3A, 4B
+d) 1A, 2B, 3C, 4D
+
+
+Respuesta: b
+
+
+83. Who is chatting on his cell phone?
+
+
+Subject: Things we are doing today!
+To: molly@gmail.com
+Hi Molly,
+I hope you are doing well!
+I’m here with my brother Paul, his friend Tim and my sister. My brother’s playing computer games at the moment. Jim is watching Youtube videos, he is not watching TV now. Katherine is surfing in the internet and sending photos to facebook. Tim is chatting on his cell phone with his high school girlfriend Sofia. And What about you? What are you doing?
+I hope you received my letter last week.
+Best,
+Melissa
+ 
+Opciones:
+
+
+a) Jim
+b) Tim
+c) Katherine
+d) Samantha
+
+
+Respuesta: b
+
+
+84. What are the guests doing at Etna’s party?
+
+
+Hi! This is Etna. I’m calling to you because I’m having my birthday party on June second at night and you are invited, you can arrive at eight o’ clock if you want but please don’t forget to bring your swimsuit, googles and one or two towels. Please confirm!
+
+
+Opciones:
+
+
+a) Reading
+b) Running
+c) Sleeping
+d) Swimming
+
+
+Respuesta: d
+
+
+85. Donna doesn’t like _ or _, either.
+
+
+Donna's daily food!
+I usually have some cereals for breakfast in the mornings. I like vegetables and fruit, specially mushroom soup and my favorite fruit is tangerine. I don’t like fat or fast food. Some foods, like nuts, milk, cream, snacks contain fats and carbohydrates. I don’t like any kind of saturated fat. I always take care of my health by eating healthy food. I exercise two days a week. I drink a lot of water after the gym.
+Today, there is some chicken and spinach salad for lunch. There are some potatoes in the salad but there aren’t any carrots. It looks delicious!
+
+
+Opciones:
+
+
+a) vegetables and fruit - fast and carbohydrates
+b) vegetables and fruit - saturated fat
+c) fast food - tangerine
+d) fast food - fat food
+
+
+Respuesta: d
+
+
+86. Replace the expressions indicated in parenthesis with the correct possessive adjectives.
+
+
+My name is Kevin Miller. My mum’s (1) name is Helen. My father’s (2) name is David. My twin sisters’(3) names are Claire and Margaret. We’ve got a dog. Claire, Margaret and me’s (4) dog’s name (5) is Molly. Molly’s favorite toy is a rubber ball. My mother’s sister’s (6) name is Emily and she’s married to Tom. My father’s brother’s (7) name is Mathew and he’s married to Kelly. They have got a son. Mathew and Kelly’s (8) son’s name is Sam. Cousin of mine (9) is very cute.
+
+
+Opciones:
+
+
+a) (1) She, (2) he, (3) they, (4) we, (5) it, (6) she, (7) he, (8) they, (9) I
+b) (1) Ser, (2) his, (3) their, (4) our, (5) its, (6) her, (7) his, (8) their, (9) my
+c) (1) Hers, (2) his, (3) theirs, (4) ours, (5) its, (6) hers, (7) his, (8) theirs, (9) mine
+d) (1) She’s, (2) he’s, (3) they’re, (4) we’re, (5) it’s, (6) she’s, (7) he’s, (8) they’re, (9) I’m
+
+
+Respuesta: b
+
+
+88. In the following text, the phrase marked in parenthesis 1 means:
+
+
+Hi, Diane.
+How do you do? I’m ok. I can’t stand housework. As you know, I’m studying at Manhattan University and I’m living with my sister Megan now. She’s a doctor and works at Cleveland Hospital. The problem is she works at night and sleeps all day! So, who does the housework? Me. First, I cook. Then I do the washing-up- After that, I hoover. Next I do the dishes and finally, I iron the clothes. I hate it! My sister doesn’t help at all. She doesn’t even tidies her room. She doesn’t have time. I’m tired and sick of this (1). I don’t know what to do. Please, help.
+Your friend, Pam
+
+
+Opciones:
+
+
+a) I am very unhappy about it 
+b) I really enjoy it
+c) I don’t mind
+d) I’m keen on
+
+
+Respuesta: a
+
+
+89. That means David’s cousin, in the following text:
+
+
+I’m David and I’m telling you about my weekend. Last Saturday at first it wasn’t so fun. I wanted to leave with my friends, but it was raining. I stayed at home and watched tv in the living room with my family. Our favorite soccer team was playing. My mother went to the kitchen and prepared some drinks and snacks. Then, my cousin Joe and his family arrived. Joe and I went to my bedroom to play video games. He taught me some new tricks, it was amazing. When it stopped raining, we went to the garden and looked for bugs and worms in order to feed my pet, a snake called Nessie. At night, all the family gathered by the chimney and roasted marshmallows on the fire. We spent the night telling funny stories and singing songs while my father was playing the guitar.
+
+
+Opciones:
+
+
+a) has no idea how to play
+b) is able to play video games
+c) lacks the necessary skills to play
+d) is not good at playing video games
+
+
+Respuesta: b
+
+
+90. In the text above, what kind of pet did David have?
+
+
+Opciones:
+
+
+a) Ferret
+b) Snake
+c) Hamster
+d) Tarantula
+
+
+Respuesta: b
+
+
+________________
+
+
+Historia
+
+
+91. Relacionar el autor con la corriente filosófica que representa.
+
+
+        Autor                Corriente filosófica
+        1. Carlos Marx        A. El único conocimiento auténtico es el conocimiento científico y surge del método científico.
+        2. Augusto Comte        B. Concibe al ser humano como ser natural con necesidades materiales, se trabaja y se transforma mediante el trabajo.
+        3. Marc Bloch        C. La historia como la ciencia, no del pasado, sino de “los hombres en sociedad a través del tiempo”.
+Opciones:
+
+
+a) 1A, 2C, 3B
+b) 1B, 2A, 3C
+c) 1A, 2B, 3C
+d) 1B, 2C, 3A
+
+
+Respuesta: b
+
+
+92. Relacionar el evento con su descripción.
+        Evento        Descripción
+        1. Caída del Imperio de Constantinopla        A. Unieron fuerzas los reyes para romper con su condición de vasallos.
+        2. Burguesía        B. Señala el inicio de la Edad Moderna.
+        3. Humanismo        C. Sustituyó a la educación aristotélica de la Edad Media.
+
+
+Opciones:
+
+
+a) 1C, 2A, 3B
+b) 1B, 2A, 3C
+c) 1C, 2B, 3A
+d) 1B, 2C, 3A
+
+
+Respuesta: b
+
+
+93. ¿A qué antecedente de la Independencia de México se refiere el siguiente texto?
+Evento que motivó la ejecución de medidas aplicadas en las monarquías europeas bajo el principio del despotismo ilustrado, con las cuales se hacen reformas principalmente de carácter político, económico, administrativo. En la Nueva España además motivaron la expulsión de los jesuitas.
+
+
+Opciones:
+
+
+a) La Ilustración
+b) La Revolución Francesa
+c) Las reformas borbónicas
+d) La invasión napoleónica
+
+
+Respuesta: c
+
+
+94. ¿Cómo se denominó el tratado que firmaron los liberales con Estados Unidos durante la Guerra de Reforma?
+
+
+Opciones:
+
+
+a) La Mesilla
+b) Mon-Almonte
+c) McLane-Ocampo
+d) Guadalupe Hidalgo
+
+
+Respuesta: c
+
+
+95. Con el plan de _, Porfirio Díaz derrocó el gobierno de Sebastián Lerdo de Tejada.
+
+
+Opciones:
+
+
+a) la Noria
+b) San Luis
+c) Tuxtepec
+d) Agua Prieta
+
+
+Respuesta: c
+
+
+96. Se le conoce como _ al ejercicio de poder regional y militar.
+
+
+Opciones:
+
+
+a) porfiriato
+b) maximato
+c) cardenismo
+d) caudillismo
+
+
+Respuesta: d
+
+
+97. Identificar las características de los gobiernos de Luis Echeverría y José López Portillo.
+
+
+1. Política neoliberal
+2. Apertura democrática
+3. Desarrollo Estabilizador
+4. Plan Global de Desarrollo
+5. Petrolización de la economía
+
+
+Opciones:
+
+
+a) 2, 4, 5
+b) 1, 3, 5
+c) 3, 2, 4
+d) 1, 2, 4
+
+
+Respuesta: d
+
+
+98. Durante el gobierno de Adolfo López, el líder agrario _ y su familia fueron sacados de su casa y asesinados el 22 de mayo de 1962 porque había atacado a la política gubernamental.
+
+
+Opciones :
+
+
+a) Fidel Velázquez
+b) Rubén Jaramillo
+c) Luis N. Morones
+d) Jaime Torres Bodet
+
+
+Respuesta: b
+
+
+99. La consolidación del neoliberalismo en México se logra con la llegada a la presidencia de:
+
+
+Opciones:
+
+
+a) José López Portillo
+b) Carlos Salinas de Gortari
+c) Miguel de la Madrid Hurtado
+d) Ernesto Zedillo Ponce de León
+
+
+Respuesta: b
+
+
+100. La globalización genera _ en las fronteras a través del _ porque se reducen las _ a la importación y a la exportación.
+
+
+Opciones:
+
+
+a) crecimiento - comercio - barreras
+b) disponibilidad - servicio - diferencias
+c) desarrollo - intercambio - concesiones
+d) oportunidades - desarrollo - protecciones
+
+
+Respuesta: a
+
+
+101. Relacionar los modos de producción con su elemento.
+Modo de producción                Elemento
+1. Primitivo                        A. Producción
+2. Esclavista                B. Producción del consumo propio
+3. Feudal                C. Propiedad privada de los medios de producción
+4. Capitalista                D. División social del trabajo
+E. La propiedad tiene carácter de cooperativa                
+Opciones:
+
+
+a) 1A, 2B, 3C, 4D
+b) 1D, 2E, 3B, 4A
+c) 1A, 2B, 3E, 4D
+d) 1D, 2C, 3B, 4A
+
+
+Respuesta: d
+
+
+102. Relacionar la fase del ciclo económico con la característica que le corresponde.
+Fase                Característica
+1. Auge                A. Las variables macroeconómicas tienen un grado de afectación muy grave. El gobierno muestra disminución de ingresos lo que afecta a los programas económicos y sociales.
+2. Recesión                B. Se presenta cuando el gobierno, el sector privado y la sociedad instrumentan medidas para conseguir un mejor funcionamiento de la economía.
+3. Depresión                C. Existe mayor crecimiento de la economía y más opciones de empleo para la población. 
+4. Recuperación                D. La economía comienza a tener problemas tales como desempleo, disminución de ingresos de las personas, reducción de demanda de bienes y servicios.
+
+
+Opciones:
+
+
+a) 1A, 2B, 3C, 4D
+b) 1B, 2A, 3D, 4C
+c) 1C, 2D, 3A, 4B
+d) 1D, 2C, 3B, 4A
+
+
+Respuesta: c
+
+
+
+
+
+
+103. Ordenar cronológicamente los siguientes acontecimientos.
+1. Plan Marshall
+2. Creación de la ONU
+3. Crisis económica mundial
+4. Japón ataca Pearl Harbour
+5. Alemania invade Polonia
+
+
+Opciones:
+
+
+a) 1, 2, 3, 5, 4
+b) 1, 3, 4, 2, 5
+c) 3, 4, 1, 5, 2
+d) 3, 5, 4, 2, 1
+
+
+Respuesta: d
+
+
+104. El 26 de mayo de 1972 se firmó el Tratado ABM con la finalidad de:
+
+
+Opciones:
+
+
+a) obligar a Estados Unidos a que se aliara con la Unión Soviética para apoyar a Cuba
+b) plantear que se derribara el muro de berlín, el cual dividía a la ciudad en dos partes
+c) conformar un conjunto entre Estados Unidos y la Unión Soviética para llegar más rápido a la Luna
+d) que Estados Unidos y la Unión Soviética limitaran el número de sistemas de misiles antibalísticos
+
+
+Respuesta: d
+
+
+105. La Conferencia de _ se considera la antesala de la Guerra Fría.
+
+
+Opciones:
+
+
+a) Yalta
+b) Cuba
+c) Berlín
+d) San Francisco
+
+
+Respuesta: a
+
+
+107. Relacionar cada tratado con su finalidad
+
+
+Tratado        Finalidad
+1. ONU        A. Garantizar la libertad y la seguridad de los países miembros por medios políticos y militares.
+2. GATT        B. Promover la expansión del mercado internacional con base en la reducción de tarifas aduaneras y otras barreras que entorpecen los intercambios comerciales.
+3. FMI        C. Planificar las economías nacionales de Europa Oriental en función del principio de intercambio científico y técnico.
+4. BM                D. En sus orígenes, otorgaba préstamos para ayudar a la reconstrucción de los países devastados en la Segunda Guerra Mundial.
+5. OTAN        E. Establecer la cooperación internacional para la solución de problemas internacionales de carácter económico, social, cultural y humanitario.
+6. COMECON        F. Otorgar pequeños financiamientos a corto plazo, definir normas para el funcionamiento del sistema monetario internacional y actuar como órgano consultivo.
+
+
+Opciones:
+
+
+a) 1E, 2B, 3F, 4D, 5A, 6C
+b) 1B, 2E, 3D, 4F, 5C, 6A
+c) 1A, 2D, 3F, 4B, 5E, 6C
+d) 1E, 2F, 3B, 4D, 5C, 6A
+
+
+Respuesta: a
+
+
+108. El secretario de Hacienda _ implementó el término Desarrollo Estabilizador para referirse a su gestión.
+
+
+Opciones:
+
+
+a) Antonio Carrillo
+b) Antonio Ortiz Mena
+c) Carlos Tello Macías
+d) Adolfo López Mateos
+
+
+Respuesta: b
+
+
+109. Seleccionar solamente  una opción, ¿Cuáles son los factores de la producción y los elementos del flujo circular de una economía abierta?
+
+
+Opciones:
+
+
+a) Tierra, capital y trabajo
+b) Capital, trabajo y bienes
+c) Capital, producción y bienes
+d) Tierra, inmuebles y producción
+
+
+Respuesta: a
+
+
+110. Escoger el sector que produce bienes intangibles que no genera riqueza, pero sí contribuye a la distribución para poner los productos al alcance del consumidor.
+
+
+Opciones:
+
+
+a) Secundario
+b) Terciario
+c) Primario
+d) Eléctrico
+
+
+Respuesta: b
+
+
+
+
+________________
+
+
+Ciencias experimentales | Biología
+
+
+111. Relacionar la variante de reproducción con el organismo que la realiza.
+
+
+Variante de la reproducción                Organismo
+1. Esporulación                A. Levaduras
+2. Bipartición                B. Bacterias
+3. Gemación                C. Helechos
+4. Conjugación                D. Protozoarios
+
+
+Opciones:
+
+
+a) 1B, 2D, 3A, 4C
+b) 1C, 2D, 3B, 4A
+c) 1C, 2D, 3A, 4B
+d) 1D, 2A, 3C, 4B
+
+
+Respuesta: c
+
+
+112. Selecciona el sitio específico donde se lleva a cabo la fecundación.
+
+
+Opciones:
+
+
+a) Útero
+b) Ovario
+c) Vagina
+d) Trompa de Falopio
+
+
+Respuesta: d
+
+
+113. El transporte pasivo en una membrana celular comprende la _, la cual _ gasto de energía celular.
+
+
+Opciones:
+
+
+a) endocitosis -  no requiere
+b) fagocitosis - sí requiere
+c) ósmosis - no requiere
+d) ósmosis - sí requiere
+
+
+Respuesta: c
+
+
+114. Jerarquizar de mayor a menor el flujo de energía a través de un ecosistema.
+
+
+1. Peces pequeños
+2. Zooplancton
+3. Tiburón
+4. Calamar
+5. Algas
+
+
+Opciones:
+
+
+a) 2, 1, 5, 3, 4
+b) 5, 2, 1, 4, 3
+c) 5, 2, 4, 3, 1
+d) 3, 1, 4, 2, 5
+
+
+Respuesta: b
+
+
+115. Identificar la fase en la cual ocurre la reducción en el número de cromosomas.
+
+
+Opciones:
+
+
+a) Profase I
+b) Anafase I
+c) Telofase I
+d) Anafase II
+
+
+Respuesta: b
+
+
+116. Selecciona el tipo de reproducción en la que un individuo experimenta un alargamiento y se divide en dos células con las mismas características genéticas.
+
+
+Opciones:
+
+
+a) Gemación
+b) Esporulación
+c) Fisión Binaria
+d) Partenogénesis
+
+
+Respuesta: c
+
+
+117. Relacionar el nivel de organización con los elementos que lo conforman.
+
+
+Nivel                Elementos
+1. Ecológico                A. Comunidad, ecosistema, biosfera
+2. Precelular        B. Sistema básico de la vida
+3. Supracelular        C. Tejido, órgano
+4. Organismo        D. Átomo, molécula, complejo molecular
+        
+Opciones:
+
+
+a) 1B, 2A, 3C, 4D
+b) 1C, 2B, 3A, 4D
+c) 1A, 2D, 3C, 4B
+d) 1D, 2C, 3B, 4A
+
+
+Respuesta: c
+
+
+118. Relacionar el tipo de ARN con la función biológica que realiza.
+Tipo de ARN        Función
+1. Transferencia        A. Transportar aminoácidos a los ribosomas.
+2. Ribosómico        B. Traslada la información del ADN a los ribosomas para la síntesis de proteínas.
+3. Mensajero        C. Se asocia a las proteínas para formar ribosomas. 
+
+
+
+
+Opciones:
+
+
+a) 1C, 2B, 3A
+b) 1A, 2C, 3B
+c) 1B, 2A, 3C
+d) 1B, 2C, 3A
+
+
+Respuesta: b
+
+
+119. Un gramo de proteína equivale a _ calorías y representan el _ por ciento del aporte calórico total de una persona.
+Opciones:
+
+
+a) 9 - 35
+b) 4 - 55
+c) 4 - 15
+d) 9 - 55
+
+
+Respuesta: c
+
+
+120. Elegir tres características de la célula eucarionte.
+
+
+1. Se reproducen asexualmente por fisión binaria.
+2. Son de organismos unicelulares y multicelulares. 
+3. Tienen núcleo celular bien definido.
+4. Algunas se nutren por quimiosíntesis.
+5. Se reproducen sexual y asexualmente.
+6. No poseen un núcleo verdadero.
+
+
+Opciones:
+a) 1, 4, 6
+b) 1, 3, 6
+c) 2, 3, 5
+d) 2, 4, 5
+
+
+Respuesta: c
+
+
+Ciencias experimentales | Química
+
+
+121. Relacionar el tipo de fenómeno con sus ejemplos.
+
+
+Fenómeno                Ejemplos
+1. Físico                A. Fermentación de la leche
+2. Químico                B. Estirar una liga
+                        C. Hervir agua
+                        D. Encender un cerillo
+
+
+Opciones:
+
+
+a) 1BA, 2CD
+b) 1BC, 2AD
+c) 1DB, 2AC
+d) 1DA, 2BC
+
+
+Respuesta: b
+
+
+122. Seleccionar la configuración electrónica del Mg12
+
+
+Opciones:
+
+
+a) 1s^2 2s^2 2p^5
+b) 1s^2 2s^2 2p^6
+c) 1s^2 2s^2 2p^6 3s^1 
+d) 1s^2 2s^2 2p^6 3s^2
+
+
+Respuesta: d
+
+
+
+
+124. El enlace _ se forma mediante la transferencia de electrones entre los átomos de un compuesto químico.
+
+
+Opciones:
+
+
+a) iónico
+b) metálico
+c) covalente polar
+d) covalente no polar
+
+
+Respuesta: a
+
+
+125. Determinar el número de oxidación del oxígeno en el peróxido de hidrógeno:
+H_2 O_2
+
+
+Opciones:
+
+
+a) +2
+b) -2
+c) +1
+d) -1
+
+
+Respuesta: d
+
+
+127. Identificar el isótopo de carbono, usado en arqueología, que determina la edad de los fósiles orgánicos.
+
+
+Opciones:
+
+
+a) Carbono-12
+b) Carbono-13
+c) Carbono-14
+d) Carbono-15
+
+
+Respuesta: c
+
+
+128. Seleccionar los anhídridos que se presentan como gases contaminantes en el medio ambiente.
+1. ZnO
+2. SO3
+3. CO
+4. NaOH
+5. CaO
+6. NO2
+
+
+Opciones:
+
+
+a) 2, 3, 6 
+b) 1, 3, 5
+c) 2, 5, 6
+d) 1, 4, 5
+
+
+Respuesta: a
+
+
+129. Relacionar el modelo de reacción con el producto formado.
+
+
+Modelo de reacción                Producto
+1. Metal + hidrógeno                A. Hidruro
+2. No metal + oxígeno                B. Oxiácido
+3. Óxido metálico + agua                C. Hidróxido
+4. Óxido no metálico + agua                D. Anhídrido
+
+
+Opciones:
+
+
+a) 1B, 2A, 3C, 4D
+b) 1B, 2D, 3A, 4C
+c) 1A, 2D, 3C, 4B
+d) 1A, 2B, 3D, 4C
+
+
+Respuesta: c
+________________
+
+
+Ciencias experimentales | Física
+
+
+131. Dados los vectores unitarios a = 3i+1j+2k y b = i+6j-4k , encontrar el producto cruz de los vectores.
+
+
+Opciones:
+
+
+a) -43i-45j+2k
+b) -16i+14j+17k
+c) -4i+1j-2k
+d) -2i+3j-2k
+
+
+Respuesta: b
+
+
+132. Un cuerpo es disparado verticalmente hacia arriba con una velocidad de 117.6 m/s. Si la altura alcanzada por el cuerpo coincide con el edificio (de nueve pisos) y cada piso tiene una altura de 5 metros. ¿Qué tiempo demorará en volver al piso el cuerpo? Considerar g=9.8 m/s^2. Seleccionar una opción. 
+
+
+Opciones:
+
+
+a) t1 = 18 s
+b) t1 = 19 s
+c) t1 = 20 s
+d) t1 = 24 s
+
+
+Respuesta: d
+
+
+134. ¿Cuál es la presión que se ejerce por medio de un pistón cuya área es de 0.04 m^2 y aplica una fuerza de 250 N sobre un líquido que está encerrado en un tanque. Seleccionar una opción.
+
+
+Opciones:
+
+
+a) P = 6250 Pa
+b) P = 5010 Pa
+c) P = 4050 Pa
+d) P = 3100 Pa
+
+
+Respuesta: a
+
+
+136. Como juego científico, un grupo de amigos sumerge completamente una pelota playera en una alberca. Si la densidad del agua es 1000 kg/m^3 y el volumen de la pelota es de 0.7 m^3, calcular el empuje hidrostático sobre la pelota. Seleccionar una opción.
+
+
+Opciones:
+
+
+a) 6860 N
+b) 7000 N
+c) 9800 N
+d) 10545 N
+
+
+Respuesta: a
+
+
+137. ¿Cuánto calor es necesario para elevar la temperatura de 10 g de mercurio de 30 grados celsius a 120 grados celsius, si el mercurio tiene una capacidad calorífica específica de 0.033 cal/g°C. Seleccionar una opción. 
+
+
+Opciones:
+
+
+a) 29.7 cal
+b) 297.8 kcal
+c) 5280.2 cal
+d) 5280.3 kcal
+
+
+Respuesta: a
+
+
+138. Considerar dos cargas eléctricas de magnitud y signo diferente separadas por una distancia r. Si la magnitud de ambas cargas se eleva al doble, ¿qué ocurre con la fuerza electrostática entre las cargas? Seleccionar una opción. 
+
+
+Opciones:
+
+
+a) Se duplica
+b) Se cuadruplica
+c) Se mantiene igual
+d) Disminuye a la mitad
+
+
+Respuesta: b
+
+
+139. Una carga de 6*10^-6 Culombios se encuentra 20 cm a la derecha de otra carga de  5*10^-6 Culombios sobre el eje X. ¿Cuál es la magnitud de la fuerza sobre la carga de 5*10^-6 Culombios? Considerar K= 9*10^9 Nm^2/C^2
+Seleccionar una opción. 
+
+
+Opciones:
+
+
+a) 2.43 N
+b) 4.83 N
+c) 5.41 N
+d) 6.75 N
+
+
+Respuesta: d
+
+
+140. ¿Cuál es la intensidad del campo eléctrico a una distancia d=3 metros de una carga de 16 microCulombios?
+
+
+
+
+Opciones:
+
+
+a) 7*10^3 N/Culombios
+b) 16*10^3 N/Culombios
+c) 47*10^3 N/Culombios
+d) 56*10^3 N/Culombios
+
+
+Respuesta: b

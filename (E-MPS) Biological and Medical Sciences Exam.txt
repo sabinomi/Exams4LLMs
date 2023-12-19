@@ -1,0 +1,2225 @@
+﻿Simulador Examen Ciencias Médico Biológicas
+
+
+I. Matemáticas
+
+
+1. Indica cuál es el segundo número de la sucesión 1/2, _, 2 , -4, 8,...
+
+
+Opciones:
+
+
+a) -1
+b) -1/4
+c) 1
+d) 1/4
+ 
+Respuesta: a
+
+
+
+
+2. Fernanda dibuja flores de colores en su libreta en el siguiente orden: flor azul, flor amarilla, flor verde, flor roja, flor azul, flor amarilla, flor verde, …¿De qué color es la flor número 34?
+
+
+Opciones:
+
+
+a) Amarilla
+b) Verde
+c) Roja
+d) Azul
+ 
+Respuesta: a
+
+
+
+
+5. ¿Qué número ocupa la octava posición en la siguiente sucesión? 12, -20, -30, 42, -56 ?
+
+
+Opciones:
+
+
+a) 100
+b) -100
+c) 110
+d) -110
+ 
+Respuesta: b
+
+
+
+
+6. Obtener el resultado de la siguiente división de polinomios: (2x^3+3x^2-5x-6)/(x+1)
+
+
+a) -6x^2+x+2
+b) 6x^2-x-2
+c) 2x^2+x-6
+d) -2x^2-x+6
+
+
+Respuesta: c
+
+
+
+
+7. Representar con exponentes fraccionarios la expresión: Surd[x^5,9]-Surd[y^7,3]
+
+
+Opciones:
+
+
+a) y^3/7-x^9/5
+b) y^7/3-x^5/9
+c) x^5/9-y^3/7
+d) x^5/9-y^7/3
+
+
+Respuesta: d
+
+
+
+
+8. Si a es la mitad de b y b es igual a 4, entonces, el doble de a más el triple de b es:
+
+
+Opciones:
+
+
+a) 12
+b) 14
+c) 16
+d) 18
+
+
+Respuesta: c
+
+
+
+
+9. Factorizar la siguiente expresión: x^2+bx-ax-ab
+
+
+Opciones:
+
+
+a) (x+a)(x-b)
+b) (x-a)(x-b)
+c) (x-a)(x+b)
+d) (x+a)(x+b)
+
+
+Respuesta: b
+
+
+
+
+10. En un corral donde se encuentran los conejos y gallinas hay 88 patas y 32 cabezas, ¿Cuántos conejos y cuántas gallinas se tienen?
+
+
+Opciones:
+
+
+a) 12 conejos y 20 gallinas
+b) 13 conejos y 19 gallinas
+c) 4 conejos y 18 gallinas
+d) 15 conejos y 17 gallinas
+
+
+Respuesta: a
+
+
+
+
+11. ¿Qué debe anotarse del lado derecho de la siguiente expresión para que sea una igualdad? 
+3Log[10,m]+2Log[10,n]
+
+
+Opciones:
+
+
+a) 3Log[10,mn]
+b) 3/2Log[10,mn]
+c) Log[10,m^3n^2]
+d) Log[m/n-1]
+
+
+Respuesta: c
+
+
+
+
+12. Es el centro de la circunferencia cincunscrita al triángulo.
+
+
+Opciones:
+
+
+a) Incentro
+b) Baricentro
+c) Ortocentro
+d) Circuncentro
+
+
+Respuesta: d
+
+
+13. Dos rectas distintas son ___ si tienen intersección vacía.
+
+
+Opciones:
+
+
+a) oblicuas
+b) paralelas
+c) transversales
+d) perpendiculares
+
+
+Respuesta: b
+
+
+14.  Si se tiene un triángulo rectángulo con un ángulo de 45 grados, un cateto opuesto x3 de 40 m, determinar el cateto adyacente x1 y la hipotenusa x2.
+  
+Opciones:
+
+
+a) x1 =40, x2= 40*sqrt(2)
+b) x1 =40, x2= 4*sqrt(2)
+c) x1 =40, x2= sqrt(2)/40
+d) x1 =40, x2= sqrt(2)/4
+
+
+Respuesta: a
+
+
+15. Completar los espacios marcados con ___ de la siguiente expresión. 
+Se llama ___ de una recta a la tangente de su ___ de inclinación.
+
+
+Opciones:
+
+
+a) pendiente - ángulo
+b) inclinación - factor
+c) pendiente - grado
+d) longitud - ángulo
+
+
+Respuesta: a
+
+
+
+
+16. Relacionar la pendiente de la recta (Tipo de material) que pasa por el par de puntos indicados (característica).
+
+
+Tipo de material
+1. m=1
+2. m=-2
+3. m=2
+4. m=-1
+
+
+Característica
+A. (1, -1), (0, -3)
+B. (-1, 1), (-2, 2)
+C. (1, 1), (2, 2)
+D. (-1, -1), (0, -3)
+
+
+Opciones:
+
+
+a) 1D, 2C, 3B, 4A
+b) 1C, 2D, 3A, 4B
+c) 1D, 2A, 3C, 4B
+d) 1B, 2D, 3C, 4A
+
+
+Respuesta: b
+
+
+
+
+17. Indicar el centro y el radio de la circunferencia que tiene ecuación x^2+4y^2-6x-6y+14=0
+
+
+Opciones:
+
+
+a) (3,3) y r=4
+b) (3,0) y r=4
+c) (0,3) y r=8
+d) (3,3) y r=8
+
+
+Respuesta: d
+
+
+
+
+18. Convertir la siguiente ecuación canónica a su forma general.
+(x-4)^2=2(y+6)
+
+
+Opciones:
+
+
+a) x^2-2x-4y+8=0
+b) x^2-4x-2y-4=0
+c) x^2+8x-y+4=0
+d) x^2-8x-2y+4=0
+
+
+Respuesta: d
+
+
+
+
+19. Determinar el intervalo de la desigualdad: x<a
+
+
+Opciones:
+
+
+a) (-∞,a]
+b) (-∞,a)
+c) [-∞,a]
+d) [-∞,a)
+
+
+Respuesta: b
+
+
+
+
+20. La derivada de y=Sqrt[Sqrt[x]] es
+Opciones:
+
+
+a) 1/4Surd[x^3,4]
+b) 4Surd[x^3,4]
+c) 3Surd[x^4,3]
+d) Surd[x^4,3]
+
+
+Respuesta: a
+
+
+21. Si D[f,x]=0 para toda x ∈ (a,b), entonces f es una función _ sobre [a,b]
+
+
+Opciones:
+
+
+a) creciente
+b) constante
+c) decreciente
+d) discontinua
+
+
+Respuesta: b
+
+
+22. Derivar la siguiente función: y=2Sqrt[t^3]+4/Sqrt[t]-Sqrt[2][a]
+
+
+Opciones:
+
+
+a) 3Sqrt[t]-2t^(-3/2)[b]
+b) 3Sqrt[t]+2t^(-3/2)
+c) 4/3t^(5/3)+2t^(3/2)
+d) 4/3t^(5/3)-2t^(3/2)
+
+
+Respuesta: a
+
+
+23. La derivada de y=Log[(x^2+1)(x^2+2)] es:
+
+
+Opciones:
+
+
+a) x/(x^2-1)-x/(x^2+2)
+b) (2x)/(x^2+1)-(2x)/(x^2+2)
+c) (2x)/(x^2+1)+(2x)/(x^2+2)
+d) x/(x^2-1)+x/(x^2+2)
+
+
+Respuesta: c
+
+
+
+
+24. La integral Integrate[(3x^2+6x-2),x] es:
+
+
+Opciones: 
+
+
+a) 6x+6+C
+b) 3x^2+6+C
+c) x^3+3x^2-2x+C
+d) x^4+3x^2-2x+C
+
+
+Respuesta: c
+
+
+25. Al resolver la integral Integrate[Power[x\(40)2x-1\(41),2],x] se obtiene:
+
+
+Opciones:
+
+
+a) x^4-(4x^3)/3+x^2/2+c
+b) x^4+(4x^3)/3-x^2/2+c
+c) x^3-x^2/2+x/2+c
+d) x^3+x^2/2+x+c
+
+
+Respuesta: a
+
+
+26. Hallar el valor de: Integrate[,{x,π,e}]
+
+
+Opciones:
+
+
+a) (π+e)
+b) (π-e)
+c) (-π-e)
+d) (-π+e)
+
+
+Respuesta: d
+
+
+27.[c][d][e] ¿Qué fracción parcial le falta a la siguiente expresión?
+(3x-2)/(x(x-2)(x+1)(x+3))=(A/x+__+C/(x-2)+D/(x+1))
+
+
+Opciones:
+
+
+a) B/(x-2)
+b) B/(x+3)
+c) B/(x+1)
+d) B/x
+
+
+Respuesta: b
+
+
+
+
+28. Resolver la siguiente integral: Integrate[(1/((3-3x)^4)),x]
+
+
+Opciones: 
+
+
+a) -(1/(3(3-3x)^3))+C
+b) (1/(9(3-3x)^3))+C
+c) -(1/(9(3-3x)^3))+C
+d) (1/(3(3-3x)^3))+C
+
+
+Respuesta: b
+
+
+
+
+
+
+29. Identificar el espacio muestral si en una caja se meten 10 bolitas enumeradas iniciado desde 0 y se ca tomando una a la vez.
+
+
+Opciones:
+
+
+a) {0,1,2,3,4,5,6,7,8,9,10}
+b) {1,2,3,4,5,6,7,8,9,10}
+c) {0,1,2,3,4,5,6,7,8,9}
+d) {1,2,3,4,5,6,7,8,9}
+
+
+Respuesta: c
+
+
+30. Especificar por comprensión el conjunto siguiente: M={2,3,4,5,6,7,8,9}
+
+
+Opciones:
+
+
+a) M={x∈Z^+|1<x<9}
+b) M={x∈Z|1≤x≤9}
+c) M={x∈N|1<x≤9}
+d) M={x∈N|1(x)9}
+
+
+Respuesta: c
+
+
+
+
+31. Datos los conjuntos A={1,2,3,4,5} y B={4,5,6,7}, realizar la operación (A-B)∪(B-A)
+
+
+Opciones:
+
+
+a) {1,2,3,5,7}
+b) {1,2,3,6,7}
+c) {1,3,5,6,7}
+d) {1,2,4,5,7}
+
+
+Respuesta: b
+
+
+32. Datos los conjuntos A={a,b,e,g},  B={b,c,e,f}, C={e,f,g,h},  A∩B = {b,e}, A∩C = {e,g}, B∩C = {e,f} y A∩B∩C = {e}. Determinar la  siguiente operación A’∩C’
+
+
+Opciones:
+
+
+a) {c,h}
+b) {a,g}
+c) {h}
+d) {c}
+
+
+Respuesta: d
+
+
+33. Relacionar cada concepto con su símbolo.
+
+
+Concepto:
+1. Unión
+2. Intersección
+3. Complemento
+4. Diferencia
+
+
+Símbolo:
+A. A’
+B. A-B
+C. (A∪B)
+D. (A∩B)
+
+
+Opciones:
+a) 1C, 2A, 3D, 4B
+b) 1C, 2D, 3A, 4B
+c) 1A, 2B, 3C, 4D
+d) 1A, 2C, 3B, 4D
+
+
+Respuesta: b
+
+
+II. Comunicación | Competencia lectora
+
+
+
+
+//Preguntas de la 34 a 43 es comprensión lectora pero basada en gráfico[f]
+
+
+Leer con atención el texto y responder las preguntas 44 a 53.
+
+
+Continuidad de los Parques
+
+
+[1] Había empezado a leer la novela unos días antes. La abandonó por negocios urgentes, volvió a abrirla cuando regresaban en tren a la finca; se dejaba interesar lentamente por la trama, por el dibujo de los personajes. Esa tarde, después de escribir una carta a su apoderado y discutir con el mayordomo una cuestión de aparcerías volvió al libro en la tranquilidad del estudio que miraba hacia el parque de los robles. Arrellanado en su sillón favorito de espaldas a la puerta que lo hubiera molestado como una irritante posibilidad de intrusiones, dejó que su mano izquierda acariciara una y otra vez el terciopelo verde y se puso a leer los últimos capítulos. Su memoria retenía sin esfuerzo los nombres y las imágenes de los protagonistas; la ilusión novelesca lo ganó caso en seguida. Gozaba del placer casi perverso de irse desgajando línea a línea de lo que rodeaba, y sentir a la vez que su cabez descansaba cómodamente en el terciopelo del alto respaldo que los cigarrillos seguían al alcance de la mano, que más allá de los ventanales danzaba el airde del atardecer bajo los robles. Palabra a palabra, absorbido por la sórdida disyuntiva de los héroes, dejándose ir hacia las imágenes que se concertaban y adquirían color y movimiento, fue testigo del último encuentro en la cabaña del monte. Primero entraba la mujer, recelosa; ahora llegaba el amante, las timada la cara por el chicotazo de una rama (1). Admirablemente restallaba ella la sangre con sus besos, pero él rechazaba las caricias, no había venido para repetir las ceremonias de una pasión secreta, protegida por un mundo de hojas secas y senderos furtivos. El puñal se antibiaba contra su pecho, y debajo latía la libertad agazapada (2). Un diálogo anhelante corría por las páginas como un arrollo de serpientes, y se sentía que todo estaba decidido desde siempre. Hasta esas caricias que enredaban el cuerpo del amante como queriendo retenerlo y disuadirlo, dibujaban sbominablemente la figura de otro cuerpo que era necesario destituir. Nada había sido olvidado: coartadas, azares, posibles errores. A partir de esa hora cada instante atenúa su empleos minuciosamente atribuido. El doble repaso despeciadado se interrumpía apenas para que una mano acariciara una mejilla. Empezaba a anochecer.
+
+
+[2] Sin mirarse ya, atados rígidamente a la tarea que los esperaba, se separaron en la puerta de la cabaña. Ella debía seguir por la senda que iba al norte. Desde la senda opuesta él se volvió un instante para verla correr con el pelo suelto. Corrió a su vez, parapetándose en los árboles y los setos, hasta distinguir en l bruma malva del crepúsculo la alameda que llevaba a la casa (3). Los perros no debían ladrar, y no ladraron. El mayordomo se estaría a esa hora, y no estaba. Subió los tres peldaños del porche y entró. Desde la sangre galopando en sus orídos le llegaban las palabras de la mujer: primero una sala azul, después una galería, una escalera alfombrada. En lo alto, dos puertas. Nadie en la primera habitación, nadie en la segund. La puerta del salón, y entonces el puñal en la mano. La luz de los ventanales, el alto respaldo de un sillón de terciopelo verde, la cabeza del hombre en el sillón leyendo una novela (4).
+
+
+44.[g][h] Dado el texto anterior, indicar el número entre paréntesis [i][j]que corresponde al fragmento del texto que contiene el clímax del texto.
+
+
+Opciones:
+
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: d
+
+
+45. Ordenar cronológicamente las acciones narradas en la lectura anterior.
+
+
+1. Los amantes planean asesinar al esposo de la mujer.
+2. El protagonista comienza a leer una novela.
+3. El amante asesina al esposo de la mujer.
+4. Se establece una relación entre una mujer casada y un hombre.
+5. El protagonista retoma la lectura de la novela.
+
+
+Opciones:
+
+
+a) 2, 4, 1, 5, 3
+b) 4, 2, 1, 3, 5
+c) 2, 1, 4, 3, 5
+d) 4, 1, 2, 5, 3
+
+
+Respuesta: d
+
+
+46. De la lectura anterior, ¿Qué idea explica la razón de que el título del texto sea “Continuidad de los parques”?
+
+
+Opciones:
+
+
+a) La pasión secreta de los amantes estaba protegida por mundo de hojas secas y senderos furtivos.
+b) El protagonista continúa la lectura de la novela en el estudio que miraba hacia el parque de los robles.
+c) La esposa y el amante se encontraban en la cabaña del monte que se encuentra en el parque de los robles.
+d) El autor usa la figura del parque como referente para establecer la continuidad entre las ficciones narradas.
+
+
+Respuesta: d
+
+
+47. El texto anterior es ___ debido a las características que presenta.
+
+
+Opciones:
+
+
+a) un mito
+b) un cuento
+c) una novela
+d) una leyenda
+
+
+Respuesta: b
+
+
+48. ¿Qué idea es compatible con el texto anterior?
+
+
+a) El asesino del esposo iba a ocurrir antes, pero se pospuso debido a negocios urgentes
+b) La esposa y el amante habían planeado desde siempre asesinar al esposa para poder estar juntos
+c) La novela que leía el protagonista estaba tan bien escrita que lo atrapó en la realidad ficticia
+d) El lector de la novela tiene buena memoria porque retenía sin esfuerzo los nombres de los protagonistas
+
+
+Respuesta: a
+
+
+49. Seleccionar la afirmación que es coherente con la lectura anterior.
+
+
+Opciones:
+
+
+a) El lector tenía un carácter irascible y perverso
+b) La esposa realmente no quería asesinar a su esposo
+c) El mayordomo fue despedido ese día para que no estuviera
+d) El amante no estaba muy nervioso porque iba a cometer un crimen
+
+
+Respuesta: b
+
+
+50. De acuerdo con el texto, ¿qué inferencia es correcta?
+
+
+Opciones:
+
+
+a) El lector leía novelas románticas constantemente para poder abstraerse y así olvidar por un momento su ajetreada vida
+b) Los amantes siempre hablaban y repasaban el plan para asesinar al esposo para no olvidar nada ni cometer ningún error
+c) El autor del texto expresa que el protagonista gozaba del placer casi perverso de leer la novela debido al desenlace del texto
+d) El sillón verde estaba colocado con la espalda hacia la puerta porque el lector disfrutaba mucho ver hacia el parque de los robles
+
+
+Respuesta: c
+
+
+
+
+51. De la lectura anterior, es posible afirmar que el plano real y el plano ficticio se ___ por el desenlace del texto.
+
+
+Opciones:
+
+
+a) vinculan
+b) fusionan
+c) confunden
+d) encuentran
+
+
+Respuesta: b
+
+
+52. Del texto anterior,  ¿Por qué los personajes no tiene nombre?
+
+
+Opciones:
+
+
+a) Para poder mantener un texto corto y conciso de fácil lectura para todo público
+b) Porque al autor le interesa más el modo en el que está narrada la historia que la historia misma
+c) Le brinda la oportunidad a los lectores de que le coloquen el nombre que deseen a los personajes
+d) Debido a que el tema del texto gira en torno a las dos ficciones como espacios y no como historias
+
+
+Respuesta: d
+
+
+53. Del texto anterior, ¿Qué figura retórica se observa en la totalidad del texto?
+
+
+Opciones:
+
+
+a) Alegoría
+b) Paradoja
+c) Metáfora
+d) Antítesis
+
+
+Respuesta: b
+
+
+III. Comunicación | Competencia escrita
+
+
+
+
+54[k][l]. Completar el siguiente texto con las palabra adecuadas:
+
+
+Hoy vi en las noticias que un alpinista llegó a la cima del Nevado de Toluca a pesar ___ riesgo y dificultades, lo que me inspiró mucho y salí a compara una chamarra y una bufanda ___ porque ya tengo ___ botas y guantes para escalar.
+
+
+Opciones:
+
+
+a) del extraordinario - negras - buenas
+b) del extraordinario - negras - buenos
+c) de los extraordinarios - negra - buenas
+d) de los extraordinarios - negra - buenos
+ 
+Respuesta: a
+
+
+
+
+55. Indicar la opción redactada correctamente.
+
+
+Opciones:
+
+
+a) Esta es la línea de ejercicios cuyas soluciones repasamos ayer
+b) Carlos y Romina, que ganaron el concurso, celebrarán a lo grande
+c) Me gusta la gente con quienes salimos de paseo el domingo pasado
+d) Esta es la mochila por la que pagué mucho menos de lo que pensaba
+
+
+Respuesta: b
+
+
+
+
+56. Completar la siguiente oración con la forma correcta.
+La inmensa mayoría de los edificios de la cuadra ___ vacíos
+
+
+Opciones:
+
+
+a) eran
+b) está
+c) estaban
+d) estarían
+
+
+Respuesta: c
+
+
+
+
+57. Elegir la opción sin errores de redacción.
+
+
+Opciones:
+
+
+a) Ni la geografía ni la historia le llamaron la atención
+b) ¿Es cierto que la mayoría de las aves migra cada año?
+c) Desde años, las nuevas leyes es el verdadero problema
+d) El letrero en la tienda dice: “Aquí se vende aguas frescas”
+
+
+Respuesta: a
+
+
+
+
+58.[m][n][o][p] Identificar la idea con falta de coherencia dentro del siguiente texto:
+
+
+Desde que volví a España hace tres años no doy crédito de lo que cobran profesores y médicos (1). Mi mujer y mi hermana son profesionales con una vocación clara y debido a esa confusión les gustaría tener un impacto en la sociedad (2). Pero solo con sus sueldos no pueden pagarse el alquiler (3). La verdad que siento vergüenza de cómo les valora la sociedad (4).
+
+
+Opciones:
+
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: b
+
+
+
+
+59. Seleccionar de las siguientes opciones la idea secundaria del siguiente cuento “Fiesta sorpresa de Juan Manuel Valero”.
+Ayer mi casa era una fiesta. Mis papás invitaron a todo el mundo: llegaron parientes, amigos, vecinos, todos muy bien disfrazados. Hubo abrazos, café y coca colas. Mi tía Lola  recitó algunos versos de Horacio Quiroga, una prima lejana fingió un desmayo, yo estrené pantalón largo y nadie me mandó a la cama temprano. Todo, gracias a la muerte repentina de mi hermanita.
+
+
+Opciones:
+
+
+a) La muerte súbita y sorprendente de la hermanita del narrador
+b) Hubo abrazos, café y coca colas, y recital de versos de Quiroga
+c) Llegaron familiares disfrazados adecuadamente para la fiesta sorpresa
+d) La realización de un velorio debido a la muerte repentina de un familiar
+
+
+Respuesta: c
+
+
+60. Indicar la opción  que corrige el siguiente texto:
+
+
+Ana es mi mejor amiga y hoy Ana y yo fuimos a ver una agencia de viajes porque queremos viajar. El agente de viajes recomendó a Ana y a mí un lugar para viajar y trajo para Ana y para mí un folleto, leímos el folleto y dijimos al agente de viajes que mañana Ana y yo diremos la decisión que tomemos.
+
+
+Opciones: 
+
+
+a) Ana, mi mejor amiga, y yo hoy fuimos a visitar una agencia de viajes porque queremos viajar. Cuando llegamos, el agente de viajes nos recomendó a Ana y a mí un lugar turístico con un folleto que leímos, pero hasta mañana diremos la decisión que tomamos
+b) Mi mejor amiga Ana y yo fuimos a una agencia de viajes porque viajar es lo que queremos. Un asesor de viajes nos recomendó un lugar turístico en particular y nos dio un folleto para leer con más información. Lo leímos y el día de mañana diremos la decisión que tomamos
+c) Ana, mi mejor amiga, y yo fuimos a ver una agencia de viajes porque queremos viajar fuera del país. Cuando llegamos a la agencia de viajes, el que nos atendió nos recomendó a Ana, mi mejor amiga, y a mí un lugar turístico para darnos un folleto par leer, lo leeremos mañana y le diremos la decisión que tomamos
+d) Mi mejor amiga Ana y yo fuimos hoy a una agencia de viajes porque queremos salir de vacaciones al extranjero. En la agencia, un asesor nos recomendó un destino turístico en particular y nos dio un folleto con más información del destino. Lo leímos y le dijimos al agente que el día de mañana lo contactaremos para decirle que decisión tomamos
+
+
+Respuesta:d
+
+
+
+
+61. De las siguientes opciones, ¿cuál contiene una palabra con un significado más general y una con un significado más específico del último término[q]?
+
+
+Cociné carne asada con verduras
+
+
+Opciones:
+
+
+a) Hierbas - cilantro
+b) Vegetales - aceitunas
+c) Hortalizas - alcachofas
+d) Legumbres - chícharos
+
+
+Respuesta: c
+
+
+62. Completar con la palabra adecuada para mantener el mismo sentido que el segundo término[r] de la siguiente oración:
+
+
+Los asaltos en México han aumentado en el último año
+
+
+Opciones:
+
+
+a) Hurtos
+b) Delitos
+c) Atracos
+d) Saqueos
+
+
+Respuesta: c
+
+
+63. ¿Qué opción expresa el sentido contrario del texto que se presenta a continuación?
+
+
+La familia Álvarez es de abolengo
+
+
+Opciones:
+
+
+a) La familia Álvarez es de vulgo
+b) La familia Álvarez es de casta
+c) La familia Álvarez es de alcurnia
+d) La familia Álvarez es de plebeyes
+
+
+Respuesta: d
+
+
+64. Siempre he ___ que ___ te quiero a ___ y a nadie ___. Te lo aseguro.
+
+
+Opciones:
+
+
+a) sabido - solo - tí - más
+b) sabído - sólo - ti - mas
+c) sabido - solo - ti - más
+d) sabido - sólo - tí - mas
+
+
+Respuesta: a
+
+
+65. Indicar la opción  mejor redactada.
+
+
+Opciones:
+
+
+a) Algunas personas son sociópatas es decir no demuestran discernimiento entre bien y mal e ignoran los derechos y sentimientos de los demás.
+b) Algunas personas son sociópatas, es decir no demuestran discernimiento entre bien y mal e ignoran los derechos y sentimientos de los demás.
+c)Algunas personas, son sociópatas es decir, no demuestran discernimiento entre bien y mal, e ignoran los derechos y sentimientos de los demás.
+d) Algunas personas son sociópatas, es decir, no demuestran discernimiento entre bien y mal e ignoran los derechos y sentimientos de los demás.
+
+
+Respuesta: d
+
+
+66. Seleccionar la opción sin errores de redacción.
+
+
+Opciones:
+
+
+a) Mañana iré al centro y comeré solo un pastel
+b) ¿Carlos le preparó la cena a Lucía en su casa?
+c) Pinté un cuadro original con un paisaje de la selva
+d) Lucía me gusta y Paula me encanta. Le pediré que sea mi novia
+
+
+Respuesta: c
+
+
+67. Relacionar el tipo de texto con su ejemplo.
+
+
+Tipo de texto
+1. Formal
+2. Informal
+
+
+Ejemplo
+A. ¿Cómo te va, Carlos?
+B. ¿Desea ver la carta de postres?
+C. Reitero, mi más sentido pésame.
+D. Nos vemos al rato en el lugar de siempre.
+
+
+Opciones:
+
+
+a) 1AC, 2BD
+b) 1BC, 2AD
+c) 1AD, 2BC
+d) 1BD, 2AC
+
+
+Respuesta: b
+
+
+68. De las siguientes opciones, ¿cuál está escrita correctamente?
+
+
+Opciones:
+
+
+a) Te quise mas que a nadie… No entiendo porque te fuiste, más aquí esperaré
+b) Te quise más que a nadie… No entiendo porqué te fuiste, más aquí esperaré
+c) Te quise mas que a nadie… No entiendo por que te fuiste, mas aquí esperaré
+d) Te quise más que a nadie… No entiendo por qué te fuiste, mas aquí esperaré
+
+
+Respuesta: d
+
+
+69. Seleccionar el párrafo mejor redactado
+
+
+Opciones:
+
+
+a) El leísmo no llegó a América con Colón porque surgió tarde y en otro lugar ¿Te sulfuras cuando escuchas a algún Español del centro de la Península utilizar le donde debería ser la, lo o sus plurales? No te pasará con un hispanoamericano; todo se lo debemos a los Andaluces que colonizaron América y que llevaron cómo no, sus hablas. 
+b) El leísmo no llegó a América con Colón… porque surgió tarde y en otro lugar, ¿te sulfuras cuando escuchas a algún español del centro de la Península utilizar ‘le’ donde debería ser ‘la’, ‘lo’ o sus plurales?. No te pasará con un hispanoamericano: Todo se lo debemos a los Andaluces que colonizaron América y que llevaron, cómo no, sus hablas. 
+c) El leísmo no llegó a América con Colón… porque surgió tarde y en otro lugar. ¿Te sulfuras cuando escuchas a algún Español del centro de la Península utilizar le donde debería ser la, lo o sus plurales?. No te pasará con un Hispanoamericano… Todo se lo debemos a los Andaluces que colonizaron América y que llevaron (cómo no) sus hablas.
+d) El leísmo no llegó a América con Colón porque surgió tarde y en otro lugar  ¿Te sulfuras cuando escuchas a algún español del centro de la península utilizar ‘le’ donde debería ser ‘la’, ‘lo’ o sus plurales? No te pasará con un Hispanoamericano. Todo se lo debemos a los andaluces que colonizaron América y que llevaron, cómo no, sus hablas.
+
+
+Respuesta: d
+
+
+70. Del siguiente resumen del artículo El concepto de la Biografía Lingüística y su aplicación como herramienta lingüística (de Patrick Wolf-Farré, se omitió el nombre para no asociarlo a una persona), identificar el fragmento que expone los resultados de la investigación.
+
+
+Este artículo da un resumen de la teoría de las biografías lingüísticas y de sus aplicaciones existentes en el ámbito lingüístico [1]. Al ser un método poco usado (y, a lo mejor, poco conocido) en el área lingüística hispánica [2], la meta de este artículo es servir de base científica para estudiantes y científicos interesados en el concepto [3]. Se basa en trabajos alemanes, poco difundidos en la lingüística hispanohablante, como también en las experiencias del autor aplicando este método en su propia investigación [4].
+
+
+Opciones:
+
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: a
+
+
+
+
+71. Identificar el orden correcto de las etapas de la Metodología de la investigación documental.
+
+
+Opciones:
+
+
+a) Delimitación del problemas de investigación, selección del tema de investigación, elaboración de fichas de contenido, elaboración del esquema temático, redacción del trabajo 
+b) Elaboración del esquema temático, delimitación del problema de investigación, selección del tema de investigación, redacción del trabajo, elaboración de fichas de contenido
+c) Selección del tema de investigación, delimitación del problema de investigación, elaboración del esquema temático, elaboración de fichas de contenido, redacción del trabajo
+d) Elaboración de fichas de contenido, elaboración de esquema temático, selección del tema de investigación, reacción del trabajo, delimitación del problema de investigación
+
+
+Respuesta: c
+
+
+72. De las siguientes fichas de contenido[s], ¿cuál es de comentario?
+
+
+Opciones:
+
+
+a) Robert L. Park, Ciencia o vudú, p.147
+Sobre el método científico
+“Los nuevos hallazgos generalmente se comparten inicialmente con algunos colegas cercanos, y a veces se someten a prueba en un grupo reducido. También es posible que se presente oficialmente el trabajo en un congreso científico, aunque seguramente no se vería con buenos ojos que el lugar de reunión fuera el Superdome. Si no surgen problemas, el trabajo se somente a una revista científica adecuada para que lo publique”
+b) Robert L.Park, Ciencia o vudú, pp. 95-109
+Sobre el método científico
+En el texto se evidencían varios ejemplos donde es más fuerte la capacidad mental que la misma ciencia que nos han expuesto. Por ejemplo, “la conciencia colectiva” que se puede alcanzar mediante la meditación trascendental o el hecho de que nosotros mismos podemos influir en el clima de la Tierra o el poder curativo que tenemos ante un supuesto tratamiento medicinal, aunque en muchos casos es solo nuestro propio sistema de reparación, el que finalmente ha logrado realizar su tarea.
+c) Robert L. Park, Ciencia o vudú
+Sobre el método científico
+Ciencia o vudú es un libro imprescindible que, además, ha marcado las pautas de lo que debe ser la divulgación científica y la lucha contra las pseudociencias durante la última década. Su lectura es obligada para cualquiera que quiera saber distinguir lo que es conocimiento científico de lo que no lo es, pero tampoco estaría de más que quienes se dedican a la comunicación, a la política y hasta a las propias disciplinas científicas dedicaran algo de tiempo a esta obra que pone de manifiesto que, en no pocas ocasiones, la pervivencia o la magnificación del ciencia.vudú estopa directamente relacionada con las actuaciones de los integrantes de esos colectivos en relación con la misma.
+d) Roberto L. Park, Ciencia o vudú, pp. 201-208
+Sobre el método científico
+“Trabajos estúpidos logran llegar a la imprenta, mientras que una idea sensacional puede quedar enfangada en un debate mezquino. Y sin embargo, en su conjunto el sistema funciona sorprendentemente bien: los buenos trabajos acaban por aflorar, mientras que el revoltijo de la ciencia pacotilla sigue siendo manejable. El método científico desciende de los fallos humanos de los científicos individuales”.
+La lectura de este libro no está de más para quienes se dedican a la comunicación, a la política y hasta a las propias disciplinas científicas, ya que esta obra que pone en manifiesto que, en no pocas ocasiones, la pervivencia o la magnificación de la ciencia-vudú está directamente relacionada con las actuaciones de los integrantes de esos colectivos en relación con la misma.
+
+
+Respuesta: c
+
+
+
+
+73. De acuerdo con el formato APA, ¿qué cita es correcta?
+
+
+Opciones:
+
+
+a) Ruiz (p. 45) menciona que “cada libro tiene un alma. El alman de la persona que lo escribió de quienes lo leyeron y soñaron con él. Cada vez que un libro cambia de manos y lo lee, su espíritu crece y se fortalece” (2001).
+b) Ruiz (2001) menciona que “cada libro tiene un alma. El alman de la persona que lo escribió de quienes lo leyeron y soñaron con él. Cada vez que un libro cambia de manos y lo lee, su espíritu crece y se fortalece” (p. 45).
+c) Ruiz menciona que “cada libro tiene un alma. El alman de la persona que lo escribió de quienes lo leyeron y soñaron con él. Cada vez que un libro cambia de manos y lo lee, su espíritu crece y se fortalece” (Ruiz, 2001).
+d) Ruiz (p. 45) menciona que “cada libro tiene un alma. El alman de la persona que lo escribió de quienes lo leyeron y soñaron con él. Cada vez que un libro cambia de manos y lo lee, su espíritu crece y se fortalece” (Ruiz, 2001).
+
+
+Respuesta: b
+
+
+IV. Inglés | Reading Comprehension
+
+
+74. Carlos’ favorite things are _, _, and films.
+
+
+Hi! I’m Carlos and I’m 17, I live in Mexico City. I’m into music, especially rock music. My favorite band is Interpol. I like playing soccer and I practice it every Saturday and Sunday morning. 
+My best fiend is Hachiko, my dog. Hachiko is the name of the dog in my favorite film Hachi: A Dog’s Tale. I also have two cats - Toby and Billy. What about you? Are you interested in music, sports, or films?
+Carlos, 17
+
+
+Opciones: 
+
+
+a) pets - sports
+b) music - sports
+c) music - movies
+d) sports - video games
+
+
+Respuesta: b
+
+
+75. David and Robert are:
+
+
+David:
+Hu. I’m David. I’m a 32-year-old photographer and I live in London. I have two sisters and one brother, their names are Susy, Elaine, and Robert. Susy in 28 years old, Elaine is 25 years ols and Robert is 34.
+My sister Susy has short hair and my sister Elaine has long hair. My brother is fiendly and my sisters have a very shy personalities. My sisters are short but my brother and I are tall.
+
+
+Opciones:
+
+
+a) taller than their sisters
+b) shorter than their sisters
+c) more tall than their sisters
+d) more short tba their sisters
+
+
+Respuesta: a
+
+
+
+
+76. Where are living The Macgregor family?
+
+
+Hi! My name es Kelly Macgregor. I was born un Italy, but I moved to California U.S. last week. My mum’s name is Carmen. She’s Mexican. My dad’s name is Jeremy. He’s from Colombia. He’s tall and a little fat. I’ve got a big sister, her name’s Natacha, she’s very intelligent.
+
+
+Opciones:
+
+
+a) Italy
+b) Mexico
+c) Colombia
+d) United States
+
+
+Respuesta: d
+
+
+77. The phrase marked with (2) t[t]hat it’s:
+
+
+They’re texting: they’re tweeting; they’re googling; they’re checking social media; they’re taking selfies; they’re listening to music. And yes, they’re working. They’re always connected. These are the “digital natives. Born at the end of the twentieth century and the beginning of the twenty-first century, digital natives don’t know life without technology. More and more younger people are working from home, in coffee shops, or anywhere. They switch back and forth (2) between their social and professional lives. They don’t see the need to separate the two.”
+
+
+Opciones:
+
+
+a) arduous
+b) trouble free
+c) complicated
+d) moderately complex
+
+
+Respuesta: b
+
+
+78. Charles eats _ of proteins and _ of dairy.
+
+
+Hello, my name’s Charles.
+Today I’m going to talk about my diet, I like eating a lot of fruits for example apples, bananas, grapes, and oranges. They have important vitamins.
+I consume a few tomatoes, potatoes, and onions because I don’t like them. I eat many grains, for example, bread, rice, and pasta. They give you energy.
+Protein helps me to grow. I usually ear some meat, chicken, and fish but, I don’t eat lots of eggs. I have less dairy food for breakfast, including milk, yogurt, and cheese. They keep bones strong.
+Wel, that’s all. Tell me about your diet.
+
+
+Opciones: 
+
+
+a) one or two types - an unspecified number
+b) an unspecified number - a small quantity
+c) a small quantity - an unspecified number
+d) a large quantity - a small quantity
+
+
+Respuesta: b
+
+
+79. Michael is:
+Michael is sixteen years old. He works hard. He is handsome and intelligent. He is strong and he has brown eyes. He’s a little quiet and patient. He es not friendly but he always bys chocolates for his best friends.
+
+
+Opciones:
+
+
+a) optimistic
+b) generous
+c) reliable
+d) honest
+
+
+Respuesta: b
+
+
+80. What’s the name of Peter’s aunt’s husband?
+Peter’s Familly
+I don’t have any brothers or sisters, but my cousin Mary is a good friend. Mary is 18 years old. Her brother John is 15 and Anna, her sister, is seven. Dave is my uncle and Amy is my aunt. They’re good to me because I’m their only nephew. My father, Jorge, is 41 years old and my mother, Dorothy, is 39. My grandfather is called Dan and his wife, my grandmother is Susan.
+
+
+Opciones:
+
+
+a) Dan 
+b) John
+c) Dave
+d) Jorge
+
+
+Respuesta: c
+
+
+// 81. Son imágenes
+
+
+Read the text and answer questions 82 to 83
+
+
+My New House
+Remembrance Day
+13th December, 1998.
+Last year, my grandparents and I moved to a new house. Our apartment had become very small for us. There was a small bedroom, a kitchen and a bathroom. We found our house after I finished the high school in Boston. When we moved in, we cleaned and painted my grandmother’s bedroom. Then my grandpa Joe planted a little garden. I wanted to grow something, too. I planted some white and red roses. Finally my grandma Jessica prepared some sandwiches for us. We were in the dining room for a while aftes that we watched movie. I think it was one of my beautiful days! This is me, Josh.
+
+
+82. How many bedrooms dis the apartment have?
+
+
+Opciones:
+
+
+a) One
+b) Two
+c) Three
+d) Five
+
+
+Respuesta: a
+ 
+83. Who planted the flowers in the little garden?
+
+
+Opciones:
+
+
+a) Joe 
+b) Josh
+c) Jessica
+d) Joe and Josh
+
+
+Respuesta: b
+
+
+V. Historia
+
+
+84. Relacionar la corriente histórica con su representante,
+Corriente histórica
+1. Materialismo histórico
+2. Escuela de los Annales
+3. Positivismo
+Representante
+A. Marc Bloch
+B. Augusto Comte
+C. Carlos Marx
+
+
+Opciones:
+
+
+a) 1B, 2A, 3C 
+b) 1C, 2B, 3A
+c) 1B, 2C, 3A
+d) 1C, 2A, 3B
+
+
+Respuesta: d
+
+
+85. Junto a Mesoamérica, ___ y ___ fueron denominadas áreas o superáreas culturales del México prehispánico.
+
+
+Opciones:
+
+
+a) Aridoamérica - Sudamérica
+b) Aridoamérica - Oasisamérica
+c) Oasisamérica - Norteamérica
+d) Oasisamérica - Centroamérica
+
+
+Respuesta: b
+
+
+86. Identificar las características y representantes del proyecto liberal.
+1. Miguel Hidalgo
+2. Lucas Alamán
+3. Leyes de Reforma
+4. Plan de Tacubaya
+5. Fuero eclesiástico
+6. Abolición de la esclavitud
+
+
+Opciones:
+
+
+a) 1,3,6
+b) 2,4,5
+c) 3,5,6
+d) 4,2,3
+
+
+Respuesta: a
+
+
+87. ¿Por qué México declaró la guerra a las potencias del Eje el 28 de mayo de 1942?
+
+
+Opciones:
+
+
+a) Debido al bloqueo comercial que Alemania impuso a México
+b) Para entrar en acción a la guerra ya que tenía al Escuadrón 201
+c) Para defender el petróleo que Alemania quería para sus tanques
+d) Por el hundimiento de dos buques petroleros: Potrero del Llano y Faja de Oro
+
+
+Respuesta: d
+
+
+88. Seleccionar las características del neoliberalismo
+1. Estabilidad de precios
+2. Estabilidad financiera
+3. Emisión de papel moneda
+4. Descentralización del Estado
+5. Privatización de las empresas estatales
+
+
+Opciones:
+
+
+a) 1,3,2
+b) 2,4,5
+c) 3,1,4
+d) 5,2,3
+
+
+Respuesta: b
+
+
+89. ¿Cuál es el nombre del programa que implementó Roosevelt para la recuperación de la crisis de 1929?
+
+
+Opciones:
+
+
+a) New Deal
+b) Economy Act
+c) Welfare TANF
+d) Programa EBT
+
+
+
+
+Respuesta: a
+
+
+90. Relacionar el tratado internacional con su objetivo.
+Tratado internacional
+1. Carta del Atlántico
+2. Plan Marshall
+3. Pacto de Varsovia
+Objetivo
+A. Tratado de Amistad, Cooperación y Ayuda Mutua entre los países socialistas de Europa Oriental.
+B. Prometía que la paz de la posguerra aseguraría a los hombres de todos los países la liberación del miedo y de la necesidad.
+c. Programa de ayuda económica a países de Europa Occidental devastados por la Segunda Guerra Mundial.
+
+
+Opciones:
+
+
+a) 1A, 2B, 3C
+b) 1A, 2C, 3B
+c) 1B, 2A, 3C
+d) 1B, 2C, 3A
+
+
+Respuesta: d
+
+
+91. Seleccionar las características del desarrollo estabilizador.
+1. Estabilidad en el tipo de cambio.
+2. Permanente desarrollo económico.
+3. Crecimiento económico sin inflación.
+4. Garantizar el bienestar mínimo para todos.
+5. Creación de empresas de bienes de consumo.
+
+
+Opciones:
+
+
+a) 1,3,5
+b) 2,4,5
+c) 1,2,3
+d) 2,3,4
+
+
+Respuesta: c
+
+
+92. Complementar el siguiente texto. El modelo económico ___ es aquel en el que las propiedades son públicas, mientras que el modelo ___ se fundamenta en la propiedad privada.
+
+
+Opciones:
+
+
+a) socialista - capitalista
+b) capitalista - socialista
+c) liberalista - comunista
+d) comunista - liberalista
+
+
+Respuesta: a
+
+
+93. Complementar el siguiente texto. Una economía ___ garantiza que los países produzcan y exporten productos a un coste ___. Por el contrario, una economía ___ es ___ y depende exclusivamente de la producción local.
+
+
+Opciones:
+
+
+a) cerrada - menor - abierta - autónoma
+b) abierta - menor - cerrada - autónoma
+c) cerrada - mayor - abierta - subordinada
+d) abierta - mayor - cerrada -condicionada
+
+
+Respuesta: b
+
+
+VI. Ciencias experimentales | Biología
+
+
+94. Al final de la gastrulación se forman las tres capas embrionarias de las cuales el ___ forma la piel y el sistema nervioso, el ___ forman los músculos y el ___ forma el tubo digestivo.
+
+
+Opciones:
+
+
+a) mesodermo - ectodermo - endodermo
+b) mesodermo - endodermo - ectodermo
+c) ectodermo - mesodermo - endodermo
+d) ectodermo - endodermo - mesodermo
+
+
+Respuesta: c
+
+
+95. Asociar el nombre del tipo de huevo con las características que presenta en los diferentes organismos.
+
+
+Tipo de huevo
+1. Centrolecitos
+2. Telolecitos
+3. Heterolecitos
+4. Isolecitos
+Características
+A. Este tipo de huevo es característico de anfibios y tiene bastante vitelo distribuido de forma desigual, acumulándose en el polo vegetal.
+B. Es característico de aves, peces y reptiles; presenta gran cantidad de vitelo que ocupa prácticamente toda la célula.
+C. Este tipo de huevo es propio de artrópodos, tiene abundante vitelo distribuido en el centro del huevo y rodeando al núcleo. Son huevos pequeños que eclosionan muy rápido.
+D. Tipo de huevo propio de celenterados, equinodermos, moluscos y mamíferos, con poco vitelo y distribuido más o menos uniformemente en el protoplasma.
+
+
+Opciones:
+
+
+a) 1C, 2A, 3B, 4D 
+b) 1A, 2D, 3B, 4C
+c) 1C, 2B, 3A, 4D
+d) 1A, 2B, 3D, 4C
+
+
+Respuesta: c
+
+
+96. La mosca Drosophila presenta 3 pares de autosomas y un par sexual. Por su parte, el Homo sapiens cuenta con ___ y un par sexual.
+
+
+Opciones:
+
+
+a) 23 autosomas
+b) 22 autosomas
+c) 44 pares de autosomas
+d) 22 pares de autosomas
+
+
+Respuesta: d
+
+
+97. Asociar el tipo de epitelio con su locación en el cuerpo humano.
+Tipo de Epitelio
+1. Estratificado plano con queratina
+2. Pseudoestratificado cilíndrico ciliado con células caliciformes
+3. De transición
+4. Simple cilíndrico en chapa (microvellosidades)
+Localización
+A. Tráquea
+B. Recubrimiento intestinal
+C. Vejiga urinaria
+D. Piel
+
+
+Opciones:
+
+
+a) 1C, 2B, 3A, 4D 
+b) 1D, 2C, 3B, 4A
+c) 1C, 2D, 3A, 4B
+d) 1D, 2A, 3C, 4B
+
+
+Respuesta: d
+
+
+98. La linfa circulante pasa por un órgano del sistema linfático llamado ___ para eliminar bacterias, agentes extraños, sustancias de desecho y continuar su recorrido.
+Opciones:
+
+
+a) timo
+b) bazo
+c) venas
+d) nódulo
+
+
+Respuesta: d
+
+
+99. Asociar los tipos de hormonas según el tipo de relación que presentan.
+Hormonas
+1. Antagonistas
+2. Sinérgicas
+3. Permisivas
+4. Inhibitorias
+Tipo de relación
+A. Cuando dos hormonas unidas producen mayor efecto.
+B. Una hormona produce el efecto contrario a otra hormona.
+C. Una hormona inhibe la secreción o síntesis de otra.
+D. Una hormona sensibiliza a la célula diana de otra hormona para que esta sea recibida.
+
+
+Opciones:
+
+
+a) 1B, 2A, 3D, 4C
+b) 1A, 2B, 3C, 4D
+c) 1A, 2C, 3B, 4D
+d) 1B, 2D, 3A, 4C
+
+
+Respuesta: a
+
+
+100. Relacionar las alteraciones hormonales con sus efectos en la salud física y mental.
+Alteraciones hormonales
+1. Las células Beta no producen suficiente insulina.
+2. Exceso de hormonas tiroideas.
+3. Deficiencia de melatonina.
+4. Incremento de Aldosterona.
+Efectos
+A. Elevación de la presión arterial, debilidad, espasmos, parálisis.
+B. Diabetes.
+C. Trastornos del sueño, episodios de tos, falta de oxígeno.
+D. Aceleración del metabolismo, ritmo cardíaco, irritabilidad.
+
+
+Opciones:
+
+
+a) 1A, 2B, 3C, 4D
+b) 1B, 2D, 3C, 4A
+c) 1A, 2D, 3B, 4C
+d) 1B, 2C, 3A, 4D
+
+
+Respuesta: b
+
+
+
+
+101. Ordenar cronológicamente los procesos que se llevan a cabo durante una transmisión nerviosa.
+1. Los neurotransmisores difunden a través de la hendidura sináptica y despolarizan los canales de sodio de la membrana postsináptica.
+2. Se dispara nuevamente el potencial de acción en la membrana adyacente.
+3. Los canales de las compuertas para el calcio se abren, el calcio entra y las vesículas de los neurotransmisores se abren.
+4. Los canales de sodio se abren con la llegada del potencial de acción, Y despolarizan la membrana terminal.
+
+
+Opciones:
+
+
+a) 4,3,1,2
+b) 4,1,2,3
+c) 3,2,1,4
+d) 3,1,4,2
+
+
+Respuesta: a
+
+
+102. La nariz es el órgano olfativo que percibe los aromas, a través de ___ mediante un epitelio especial y el bulbo olfatorio con terminaciones nerviosas.
+
+
+Opciones:
+
+
+a) mecanorreceptores
+b) quimiorreceptores
+c) termorreceptores
+d) fotorreceptores
+
+
+Respuesta: b
+
+
+103. Los aparatos están conformados por la asociación de ___ con diferentes ___, pero que colaboran para un mismo fin.
+
+
+Opciones:
+
+
+a) células - órganos
+b) funciones - células
+c) órganos - funciones
+d) sistemas - actividades
+
+
+Respuesta: c
+
+
+104. Este tejido se divide en laxo, denso y especializado.
+
+
+Opciones:
+
+
+a) Epitelial
+b) Nervioso
+c) Muscular
+d) Conectivo
+
+
+Respuesta: d
+
+
+105. El plano _ divide al cuerpo en derecha e izquierda; el plano _, en anterior y posterior, y el plano _, en superior e inferior.
+
+
+Opciones:
+
+
+a) anatómico - topográfico - planimétrico
+b) transversal - anatómico - horizontal
+c) sagital - coronal - transversal
+d) frontal - coronal - sagital
+
+
+Respuesta: c
+
+
+106. Durante la fase _ se rompe el folículo y el óvulo sale hacia la trompa de Falopio, mientras que, en la fase _, aumenta la producción de estrógenos y progesterona.
+
+
+Opciones:
+
+
+a) ovulatoria - lútea
+b) folicular - ovulatoria
+c) ovulatoria - fertilidad
+d) embriogénesis - folicular
+
+
+Respuesta: a
+
+
+107. En las células eucariotas y procariotas ocurre la siguiente reacción enzimática:
+peróxido de hidrógeno + peroxidasa -> H_2O_2 peroxidasa -> H_2O+O_2g+H_2=_2
+El H_2O_2 es _, la peroxidasa es _ y el H_2O y el O_2 son _. Estos son los componentes clásicos de las reacciones enzimáticas.
+
+
+Opciones:
+
+
+a) sustrato - enzima - productos
+b) sitio activo - sustrato - enzimas
+c) apoenzima - enzima - productos
+d) enzima - productos - holoenzimas
+
+
+Respuesta: a
+
+
+108. Ordenar los procesos que suceden en la fase luminosa de la fotosíntesis de inicio a fin.
+1. Síntesis de ATP
+2. Reducción del NAD+
+3. Fotólisis de la molécula del agua
+4. Captación de energía por los fotosistemas
+
+
+Opciones:
+
+
+a) 4,3,2,1
+b) 3,4,1,2
+c) 3,1,4,2
+d) 4,2,3,1
+
+
+Respuesta: a
+
+
+109. Los grupos sanguíneos A, B, AB y O, son ejemplos que presentan dos o más formas de expresión de un gen. Dicho de otro modo, existen alelos alternativos posibles para un rasgo determinado. ¿Qué forma de herencia es esta?
+
+
+Opciones:
+
+
+a) Ligada al sexo
+b) Codominacia
+c) Alelos múltiples
+d) Dominancia incompleta
+
+
+Respuesta: c
+
+
+110. Las alas de los murciélagos, de las moscas y de las aves tienen la misma función pareo son de diferente origen embrionario, por lo que se dice que:
+
+
+Opciones:
+
+
+a) son órganos análogos
+b) pertenecen al mismo reino
+c) son especies emparentadas
+d) las tres especies provienen del mismo linaje
+
+
+Respuesta: a
+
+
+VII. Ciencias experimentales | Química
+
+
+111. Relacionar la fórmula del compuesto con la función qupimica correspondiente.
+Fórmula del compuesto
+1. Fe_2S_3
+2. Cl_2O_5
+3. H_3PO_4
+4. KMnO_4
+Función química
+A. Oxisal
+B. Oxiácido
+C. Anhídrido
+D. Sal binaria
+
+
+Opciones: 
+
+
+a) 1C, 2D, 3A, 4B
+b) 1C, 2A, 3B, 4D
+c) 1D, 2C, 3B, 4A
+d) 1D, 2B, 3C, 4A
+
+
+Respuesta: d
+
+
+112. Los elementos químicos ___ y ___ están presentes en una mezcla de gas. Son los de mayor abundancia en la atmósfera y resultan escenciales para la vida en el planeta.
+
+
+Opciones:
+
+
+a) oxígeno - hidrógeno
+b) nitrógeno - oxígeno
+c) nitrógeno - helio
+d) oxígeno - argón
+
+
+Respuesta: b
+
+
+113. DIBUJO
+
+
+114. Determinar los coeficientes estequiométricos de las ecuación por el método de óxidoreducción:
+HNO_3+H_2SO_4+Hg->HgSO_4+H_2O+NO
+
+
+Opciones:
+
+
+a) 2,3,3,3,4,2
+b) 2,3,4,2,3,3
+c) 3,3,2,3,4,2
+d) 3,3,4,2,2,3
+
+
+Respuesta: a
+
+
+115. Organizar los elementos de manera ascendente, de acuerdo con su número atómico.
+1. Litio
+2. Flúor
+3. Cloro
+4. Oxígeno
+5. Carbono
+6. Nitrógeno
+
+
+
+
+Opciones:
+
+
+a) 2,4,6,1,3,5
+b) 2,4,6,5,3,1
+c) 1,5,6,4,2,3
+d) 1,5,6,3,2,4
+
+
+Respuesta: c
+
+
+116. Relaciones las siguientes columnas y seleccione la opción correcta
+
+
+Modelo atómico        Características
+
+
+1. Dalton.                A. Los electrones pueden tener orbitales estables alrededor del núcleo (“modelos planetario”).
+
+
+2. Thomson.                B. Comprobó que el átomo tiene núcleo en donde se reúnen las cargas positivas y está rodeado por electrones en capas circulares.
+
+
+3. Rutherford.                C. El átomo era una esfera de electricidad positiva con un número equivalente de cargas negativas (budín de pasas).
+
+
+4. Bohr.                D. La materia estaba formada por partículas muy pequeñas llamadas átomos, que son indivisibles y no se pueden destruir.
+
+
+
+
+Opciones:
+
+
+a) 1D, 2C, 3A, 4B
+b) 1D, 2A, 3C, 4B
+c) 1C, 2B, 3D, 4A
+d) 1C, 2A, 3B, 4D
+
+
+Respuesta: a
+
+
+117. DIBUJO
+
+
+118. Seleccionar las propiedades de los no metales.
+
+
+
+
+Opciones:
+
+
+a) Sólidos, líquidos y gases, malos conductores de la electricidad
+b) Sólidos, líquidos y gases, buenos conductores del calor
+c) Conductores del calor y la electricidad, alta densidad
+d) Maleables, dúctiles, baja densidad
+
+
+Respuesta: a
+
+
+119. El _ es el elemento químico que se usa en la agricultura como fertilizante.
+
+
+Opciones:
+
+
+a) hidrógeno
+b) nitrógeno
+c) francio
+d) berilio
+
+
+Respuesta: b
+
+
+120. Identificar la Ley que corresponde a la siguiente expresión matemática: V_1/T_1=V_2/T_2
+
+
+Opciones:
+
+
+a) Boyle-Mariotte
+b) De los gases
+c) Gay-Lussac
+d) Charles
+
+
+Respuesta: d
+
+
+121. La ley de___ enuncia que: “A volumen constante, la presión de una masa fija de gas es directamente proporcional a la temperatura absoluta”
+
+
+Opciones:
+
+
+a) Charles
+b) Gay-Lussac
+c) Boyle-Mariotte
+d) los gases ideales
+
+
+Respuesta: c
+
+
+122. Seleccionar los gases de efecto invernadero que se producen al absorber los rayos infrarrojos en la atmósfera.
+
+
+Opciones:[u]
+
+
+a) CO_(2’)CH_(4’)O_(3’)NO_2
+b) CO_(‘)CO_(2’)O_(2’)CH_3
+c) CO_(‘)C_6H_(6’)Cl_(2’)O_2
+d) Cl_(2’)F_(‘)O_(2’)_H_2
+
+
+Respuesta: a
+
+
+123. Identificar las propiedades de los alquinos
+1. Presenta tripe enlace
+2. Tiene una hibridación sp
+3. TIene una hibridación sp^3
+4. Su geometría espacial es lineal
+5. Se compone de un enlace sencillo
+6. Presenta dos enlaces pi y uno sigma
+7. Su geometría espacial es triangular plana
+
+
+Opciones:
+
+
+a) 1,2,4,6
+b) 2,4,6,7
+c) 2,3,5,7
+d) 1,2,3,6
+
+
+Respuesta: a
+
+
+124. DIBUJO
+
+
+125. En un proceso químico se hacen reaccionar 90 g de benceno para producir 110 g de nitrobenceno. Calcular el porciento de rendimiento de la siguiente reacción:
+C_6H_6+HNO_3 -> C_6H_5NO_2+H_2O
+con peso molecular de 78 63 123 18
+
+
+Opciones:
+
+
+a) 80.5
+b) 77.5
+c) 60.5
+d) 22.5
+
+
+Respuesta: c
+
+
+126. ¿Cuál es el peso equivalente en gramos del compuesto FeCl_3? Pesos atómicos: Fe=56 g/mol, Cl=35.5 g/mol.
+
+
+Opciones:
+
+
+a) 18.66
+b) 30.55
+c) 54.16
+d) 162.5
+
+
+Respuesta: b
+
+
+127. El CHCl_3 es un compuesto químico que se utilizó como anestésico, comúnmente llamado _; su nombre IUPAC es _ y es un derivado _ debido a su número de halógenos.
+
+
+Opciones:
+
+
+a) cloroformo - triclorometano - trihalogenado
+b) dicloruro de metilo - dicloro metano - dihalogenado
+c) cloruro de metilo - cloro metano - monohalogenado
+d) tetracloruro de metilo - tetraclorometano - polihalogenado
+
+
+Respuesta: a
+
+
+VIII. Ciencias experimentales | Física
+
+
+128. Calcular el producto escalar de los vectores A y B, sabiendo que Abs[A]=3u, y Abs[B]=4u y Cos[θ]=45α.
+
+
+Opciones:
+
+
+a) 3Sqrt[2]
+b) 3Sqrt[5]
+c) 6Sqrt[2]
+d) 3Sqrt[5]
+
+
+Respuesta: c
+
+
+129. Un carro se desplaza en línea recta desde el punto A hasta el punto B recorriendo 25 kilómetros. Al llegar al punto B, inmediatamente se da la vuelta y regresa al punto A. El tiempo para este viaje de ida y vuelta es de 2 horas. La magnitud de la velocidad media del coche para este viaje de ida y vuelta es:
+
+
+Opciones:
+
+
+a) 0 km/h
+b) 50 km/h
+c) 100 km/h
+d) 200 km/h
+
+
+Respuesta: a
+
+
+130. La ___ aplicada sobre un cuerpo es aquella que causa un cambio en el movimiento de un objeto.
+
+
+Opciones:
+
+
+a) gravedad
+b) energía
+c) fuerza
+d) masa
+
+
+Respuesta: c
+
+
+131. Relacionar el concepto con la capacidad de los materiales.
+
+
+Concepto
+1. Dureza
+2. Maleabilidad
+3. Ductilidad
+4. Conductividad
+
+
+Características
+
+
+A. Resistir fuerzas que tienden a penetrarlos.
+B. Permitir el flujo de la electricidad.
+C. Laminarlos o darles cualquier forma deseada.
+D. Ser convertidos en hilo o alambre.
+
+
+Opciones:
+
+
+a) 1B, 2C, 3D, 4A
+b) 1B, 2A, 3C, 4D
+c) 1A, 2C, 3D, 4B
+d) 1A, 2D, 3B, 4C
+
+
+Respuesta: c
+
+
+132. Calcular el peso específico del oro, cuya densidad es de ρ=18500kg/m^3. Considerar g=9.81m/s^2
+
+
+Opciones:
+
+
+a) P_e=179222N/m^3
+b) P_e=181485N/m^3
+c) P_e=190444N/m^3
+d) P_e=198555N/m^3
+
+
+Respuesta: b
+
+
+133. Se tiene un gas a una temperatura de 30°C con un volumen de 80 cm^3 a una presión de 586 mm de Hg. ¿Qué volumen ocupará este gas a una temperatura de 10°C si la presión permanece constante?
+
+
+Opciones:
+
+
+a) V_2=62.11cm^3
+b) V_2=74.72cm^3
+c) V_2=76.77cm^3
+d) V_2=88.13cm^3
+
+
+Respuesta: b
+
+
+134. En un diagrama que conecta dos émbolos, qué fuerza (F1)  se obtendrá en el émbolo mayor de una prensa hidráulica cuya área es de 120 cm^2, cuando en el émbolo menor el área es de 20 cm^2 y se aplica una fuerza (F2) de 250 N en el émbolo menor.
+
+
+Opciones:
+
+
+a) F1 = 1111 N
+b) F1 = 1222.22 N
+c) F1 = 1500 N
+d) F1 = 1544.44 N
+ 
+Respuesta: c
+
+
+135. Un objeto se coloca en un recipiente cuyo líquido tiene una densidad de 1.18 g/cm^3, quedando sumergido cerca de la superficie. Determinar el valor del volumen del objeto que tiene 950 g de masa.
+
+
+Opciones:
+
+
+a) 0.00704 m^3
+b) 0.00805 m^3
+c) 0.000704 m^3
+d) 0.000805 m^3
+
+
+Respuesta: d
+
+
+136. Determinar el porcentaje de rendimiento teórico de una máquina de vapor que en la salida tiene una temperatura de 30°C y en la caldera tiene una temperatura de 130°C.
+
+
+Opciones:
+
+
+a) 12.4%
+b) 24.8%
+c) 37.2%
+d) 74.4%
+
+
+Respuesta: b
+
+
+139.Una espira circular de 3 cm de radio es atravesada por un campo magnético de 0.25T. Determinar el flujo magnético cuando la espira tiene una posición de 75° con respecto al campo. Considerad cos 75°=0.25.
+Opciones:
+
+
+a) 1.829x10^-4 Tm^2
+b) 7.829x10^-4 Tm^2
+c) 12.829x10^-4 Tm^2
+d) 17.829x10^-4 Tm^2
+
+
+Respuesta: a
+
+
+140. Un transformador está compuesto por 80 vueltas en la bobina primaria y 180 vueltas en la bobina secundaria. Se conecta una línea de 110 V en corriente alterna. Calcular el voltaje de la bobina secundaria.
+
+
+Opciones:
+
+
+a) 300.8 V
+b) 247.5 V
+c) 60.2 V
+d) 45.4 V
+
+
+Respuesta: b
+[a]es 2*Sqrt[t^3] ?
+[b]Es 3*Sqrt[t] ?
+[c]no se si cambiar la redacción de la pregunta para indicar que el __ representa el faltante.
+[d]¿Cuántos _ poner? para unificar
+[e]yo le puse uno  "_"
+[f]no puse preguntas
+[g]Agrego la palabra pregunta dado que el primer texto dice conteste de tal a tal pregunta???
+[h]Al chatGPT le da uno el texto y le pude preguntar después varias cosas sobre ese texto. No creo que haya problema
+[i]originalmente decía superíndice, puse número en paréntesis
+[j]Me parece que hay que poner el número al inicio del párrafo. Aunque si respondió, no sé si bien o mal por que no viene la respuesta.
+Lo puse así
+======
+Pregunta 44. Dado el texto anterior, Indicar el número entre paréntesis que corresponde al fragmento del texto que contiene el clímax del texto.
+
+
+ChatGPT
+El clímax del texto se encuentra en el fragmento (4), donde se revela el desenlace de la trama con el personaje principal en peligro al ser atacado con un puñal por el amante de la mujer en la novela que estaba leyendo.
+[k]Redacción?? por los espacios??
+[l]creo que con ___ tres o 1 es igual, recuerdo que tambien lo probé con mas de un _  y funciona bien
+[m]redación para explicar que se paran las ideas con números entre paréntesis??
+[n]Sí, hay que dar las indicaciones lo mas claro posible
+[o]"Identificar la idea con falta de coherencia que está entre paréntesis dentro del siguiente texto:"
+
+
+Creo que hay que mover los paréntesis al inicio del párrafo.
+[p]Funciona bien incluso al final, mejor dejarlo como viene en el examen, así lo hice también
+1 reacción en total
+Sabino Miranda reaccionó con 👍 a la/s 2023-05-07 17:25 p. m.
+[q]Decía texto en negritas
+[r]Decía texto en negritas
+[s]Son tarjetas en forma de imágenes, el texto lo pasé tal cual respectando el orden y contenido de cada ficha
+[t]decía texto en negritas
+[u]nos subíndices no los encontré el wolfram

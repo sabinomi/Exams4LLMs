@@ -1,0 +1,2301 @@
+﻿Simulador Examen Ingeniería y Ciencias Físico Matemáticas
+
+Matemáticas
+
+
+1.  Identificar los tres términos siguientes dada la serie numérica:
+                -5, -1, 7, 23, 43,67,...
+
+
+Opciones:
+
+
+a) 95, 127, 163
+b) 85, 105, 137
+c) 95, 125, 157
+d) 93, 121, 151
+
+
+Respuesta: a.
+
+
+2.  Seleccionar el par de números que completan los espacios señalados en la siguiente sucesión:
+                -(1/3), ___, 1/3, 2/3, ___, ...
+
+
+Seleccionar una opción 
+
+
+Opciones:
+
+
+a) 0, 1
+b) 0, -1
+c) 2/3, 1/3
+d) -(2/3), 1/3
+
+
+Respuesta: a.
+
+
+5. El cuadrado de cualquier número terminado en 5 está formado por el producto de
+la cifra de las decenas (n) (n + 1) y la terminación 25. Por ejemplo: para calcular 25^2
+multiplicamos la cifra de las decenas (2) por (2+1); es decir 2x3=6 y añadimos 25.
+Por lo tanto, 25^2 = 625. Otro ejemplo: 75^2 se calcula 7 x 8 = 56 y se añade 25; es decir
+75^2 = 5625. Empleando esta regla, el cuadrado de 55 es:
+
+Opciones:
+
+
+a) 8025
+b) 5625
+c) 3025
+d) 2525
+
+
+Respuesta: c.
+
+
+7. Una rueda tiene un radio de 4 metros. ¿Qué distancia recorrerá si gira 3 vueltas
+completas sobre un plano?
+
+Seleccionar una opción 
+
+
+Opciones:
+
+a) 8 \[Pi]
+b) 12 \[Pi]
+c) 16 \[Pi]
+d) 24 \[Pi]
+
+
+Respuesta: d.
+
+
+8. Se tiene un terreno rectangular con perímetro igual a 14 m y área de 12 m^2. ¿Cuál es el
+valor de la diagonal en dicho terreno?
+
+
+Opciones:
+
+
+a) 3
+b) 4
+c) 5
+d) 25
+
+
+Respuesta: c.
+
+
+9. Calcular el valor de w para que la ecuación 5/w + 2/5 = 2/w + 1 sea verdadera. Seleccionar una opción.
+
+
+Opciones:
+
+
+a) -5
+b) -2
+c) 2
+d) 5
+
+
+Respuesta: d.
+
+
+10. Racionalizar el denominador de la siguiente expresión:
+            Sqrt[5]/(Sqrt[5] + Sqrt[x])
+
+
+Opciones:
+a) (5 - Sqrt[x])/(5 - x)
+b) (5 - Sqrt[5 x])/(5 - x)
+c) (5 + Sqrt[x])/(5 - x)
+d) (5 + Sqrt[5 x])/(5 - x)
+
+
+Respuesta: b.
+
+
+11. Relacionar el producto notable con su nombre:
+
+
+Producto notable            Nombre
+1.(b - 2) (b + 4)           A. Binomio al cuadrado
+2.(7 x - 4)^2               B. Binomio Conjugado
+3.(3 x - 2) (3 x + 2)       C. Binomio al cubo
+4.(n + m)^3                 D. Binomio con término común
+
+
+Opciones:
+
+
+A) 1A, 2B, 3C, 4D
+b) 1B, 2C, 3D, 4A
+c) 1D, 2A, 3B, 4C
+d) 1D, 2B, 3A, 4C
+
+
+Respuesta: c.
+
+
+12. Si construir una cisterna de 200 metros cúbicos tiene un costo por metro cúbico de
+10,000 pesos, ¿cuánto costará construir una cisterna de 157 metros cúbicos?
+
+
+Opciones:
+
+
+a) 7850
+b) 5000
+c) 2000
+d) 1570
+
+
+
+
+Respuesta: a.
+
+
+13. Resolver el sistema de ecuaciones lineales con dos incógnitas:
+4x+ 2y = 10
+2x + 4y = 2
+
+
+Seleccionar la respuesta correcta. 
+
+
+Opciones:
+
+
+a) y=-1, x=-3
+b) y=-1, x=3
+c) y=1, x=-3
+d) y=1, x=3
+
+
+Respuesta: b.
+
+
+14.Calcular las soluciones de la siguiente ecuación: 6 x^2 - x - 12 = 0
+
+
+Opciones:
+
+
+a) Subscript[x, 1] = -(2/3) y Subscript[x, 2] = 3/4
+b) Subscript[x, 1] = (2/3) y Subscript[x, 2] = -3/4
+c) Subscript[x, 1] = -(3/2) y Subscript[x, 2] = 4/3
+d) Subscript[x, 1] = (3/2) y Subscript[x, 2] = -4/3
+
+
+Respuesta: d.
+
+
+15. Encontrar el valor de x de acuerdo con la siguiente expresión 2^(x - 2) = 32
+
+
+Opciones:
+
+
+a) 4
+b) 7
+c) 8
+d) 16
+
+
+Respuesta: b.
+
+
+17. Seleccionar de las siguientes opciones la que simplifique  la siguiente expresión trigonométrica:
+    ((Tan^2)[x]/((Sin^2)[x] + (Sin^2)[x] (Sec^2)[x]))
+
+
+
+
+Opciones:
+
+
+a) (1/(1 - (Sin^2)[x]))
+b) (1/(1 - (Cos^2)[x]))
+c) (1/(2 - (Sin^2)[x]))
+d) (1/(2 - (Cos^2)[x]))
+
+
+Respuesta: d.
+
+
+18. Seleccionar  de las opciones la ecuación de la familia de rectas que son paralelas a la recta 2x + 5y - 4 = 0
+
+
+Opciones:
+
+
+a) y = -2/5 x + b
+b) y = -5/2 x + b
+c) y = 2/5 x + b
+d) y = 5/2 x + b
+
+
+Respuesta: a.
+
+
+19. Seleccionar de las siguientes opciones la ecuación de la circunferencia con centro (3,2) y que es tangente al eje y
+
+
+Opciones:
+
+
+a) (x + 3)^2 + (y + 2)^2 = 3
+b) (x - 3)^2 + (y - 2)^2 = 3
+c) (x + 3)^2 + (y + 2)^2 = 9
+d) (x - 3)^2 + (y - 2)^2 = 9
+
+
+Respuesta: d.
+
+
+
+
+20. Seleccionar de las siguientes opciones el vértice de la parábola: (y + 22/7)^2 = -12 (x - 11/5) 
+
+
+Opciones: 
+
+
+a) v(11/5, -(22/7))
+b) v(-(11/5), 22/7)
+c) v(11/5, 22/7)
+d) v(-(11/5), -(22/7))
+
+
+Respuesta: a.
+
+
+21. Identificar la cónica que representa la ecuación polar r = 4/(2 + Cos[\[Theta]])
+
+
+Opciones: 
+a) parábola
+b) circunferencia
+c) hipérbola
+d) elipse 
+
+
+Respuesta: d.
+
+
+22. Determinar el intervalo solución de la desigualdad: 11-3x > 5x-8
+
+
+Opciones: 
+
+
+a) (19/8, \[Infinity])
+b) (-\[Infinity], 19/8)
+c) (-(19/8), \[Infinity])
+d) (-\[Infinity], -(19/8))
+
+
+Respuesta: b.
+
+
+23. Determinar el valor del siguiente límite: Limit[(-3 x^2 + 11 x - 8)/(2 x^2 - 7 x + 5), x -> 1]
+
+
+Opciones: 
+
+
+a) -5/3
+b) 11/7
+c) -3/2
+d) 8/5
+
+
+Respuesta: a.
+
+
+24.Determinar los valores de x para los cuales es discontinua la función: f (x) = 1/(x^3 + 2 x^2 - 3 x)
+
+
+Opciones: 
+
+
+
+
+a) Subscript[x, 1] = 1, Subscript[x, 2] = -1, Subscript[x, 3] = 3
+b) Subscript[x, 1] = 1, Subscript[x, 2] = -1, Subscript[x, 3] = -3
+c) Subscript[x, 1] = 0, Subscript[x, 2] = 1, Subscript[x, 3] = 3
+d) Subscript[x, 1] = 0, Subscript[x, 2] = 1, Subscript[x, 3] = -3
+
+
+Respuesta: d.
+
+
+
+
+
+
+25. Seleccionar la opción que resuelva  la derivada de la siguiente función: y=ln(2x^(1/2))
+
+
+
+
+Opciones: 
+
+
+a) 1/(2 x)
+b) 1/2 x
+c) 2x
+d) 2 x^(1/2)
+
+
+Respuesta: a.
+
+
+26.Derivar la función: f(x) = tan(3 x^2)
+
+
+Opciones: 
+
+
+a) Sec^2(3 x^2)
+b) 6 x Sec (3 x)
+c) 6 x Sec^2 (3 x^2)
+d) 6 x tan(3 x^2)
+
+
+Respuesta: c.
+
+
+27. Derivar la expresión: y = sen [cos (5x)]
+
+
+Opciones: 
+
+
+a) Sen^2(5x)
+b) Cos[cos (5x)]
+c) Cos[Cos(5x)](-5 Sen(5x))
+d) -5[Cos^2 (25 x)] (Sen (5 x))
+
+
+Respuesta: c.
+
+
+28.Indicar cuál es el resultado de la integral siguiente: \!\(
+    \*SubsuperscriptBox[\(\[Integral]\), \(4\), \(9\)]\(
+    \*SqrtBox[\(x\)] \[DifferentialD]x\)\)
+
+
+Opciones: 
+
+
+a) -(38/3)
+b) 38/3
+c) 9
+d) 38
+
+
+Respuesta: b.
+
+
+29.Calcular la integral indefinida: \[Integral]xE^(3 x^2) \[DifferentialD]x
+
+
+Opciones: 
+
+
+a) E^(3 x^2) + c
+b) E^(3 x^2)/3 + c
+c) E^(3 x^2)/2 + c
+d) E^(3 x^2)/6 + c
+
+
+Respuesta: d.
+
+
+30. Resolver la siguiente integral: \[Integral]Log[x]/Power[x, (3)^-1] \[DifferentialD]x
+
+
+Opciones: 
+
+
+a) 3/2 Sqrt[x] (Log[x] - 3/2) + c
+b) -(3/2) Power[x^2, (3)^-1] (Log[x] - 3/2) + c
+c) 3/2 Power[x^2, (3)^-1] (Log[x] - 3/2) + c
+d) -(3/2) Sqrt[x] (Log[x] - 3/2) + c
+
+
+Respuesta: c.
+
+
+31. Calcular la integral definida: \!\(
+    \*SubsuperscriptBox[\(\[Integral]\), 
+    FractionBox[\(\[Pi]\), \(4\)], 
+    FractionBox[\(5  \[Pi]\), \(4\)]]\(\((Sin[x] - 
+        Cos[x])\) \[DifferentialD]x\)\)
+
+
+Opciones: 
+
+
+a) 2 Sqrt[2]
+b) 2
+c) 4 Sqrt[2]
+d) (3 Sqrt[2])/2
+
+
+Respuesta: a.
+
+
+32.Determinar la integral indefinida \[Integral]ArcSin[4 x] \[DifferentialD]x utilizando el método de integración
+por partes.
+
+
+Opciones: 
+
+
+a) xArcSin[4 x] + 1/4 Sqrt[1 - 16(*^2)] + c
+b) xArcSin[4 x] - 1/4 Sqrt[1 - 16(*^2)] + c
+c) -4 xArcSin[4 x] + Sqrt[1 - 16(*^2)] + c
+d) -4 xArcSin[4 x] - Sqrt[1 - 16(*^2)] + c
+
+
+Respuesta: a.
+
+
+33. Seleccionar la opción que representa las fracciones parciales al descomponer la siguiente integral \[Integral](x - 1)/(x^2 - 3 x - 4) \[DifferentialD]x 
+
+
+Opciones: 
+
+
+a) (Ax + B)/(x^2 - 3 x - 4)
+b) A/(x - 4) + B/(x + 1)
+c) A/x^2 + B/x + C/(-3 x - 4)
+d) (Ax + B)/x^2 + C/(-3 x - 4)
+
+
+Respuesta: b.
+
+
+34. Alejandra tiene en una bolsa 10 dulces de chocolate, 8 de menta y 5 de limón. Ella toma
+al azar un dulce. ¿Cuál es la probabilidad de que este sea de menta?
+
+
+Opciones: 
+
+
+a) 1/23
+b) 8/23
+c) 1/8
+d) 1/4
+
+
+Respuesta: b.
+
+
+35. En una fila se forman 10 personas, incluidos Diana y Diego. ¿De cuántas maneras
+distintas se pueden formar de modo que Diana y Diego estén siempre juntos sin que
+importe la posición que ocupen en la fila?
+
+
+Opciones: 
+
+
+a) 10!
+b) 10!
+c) 2!
+d) 9!
+
+
+Respuesta: a.
+
+
+37. Encontrar la intersección Intersection[A, B]
+
+
+A = {x| 0 < x < 6}
+B = {x| 5 < x < 12}
+
+
+Opciones: 
+
+
+a) {x| 0 < x < 5}
+b) {x| 0 < x < 6}
+c) {x| 5 < x < 6}
+d) {x| 5 < x < 12}
+
+
+Respuesta: c.
+
+
+Comunicación ! Competencia lectora
+
+
+LAS PARADOJAS MATEMÁTICAS MÁS FAMOSAS
+[1] Los seres humanos tenemos la necesidad de llegar a conclusiones lógicas a partir
+de razonamientos que sabemos que son válidos, pero hay veces en las que, ya sea de
+forma real o hipotética, la lógica no funciona como esperamos y entramos de lleno
+en la formulación de paradojas porque nuestra mente no es capaz de encontrar el
+razonamiento de una conclusión compleja, incluso sabiendo que hemos realizado la
+argumentación correcta. Pasa 10 mismo en el terreno de las matemáticas, que pese a
+ser perfectamente lógicas, nos hacen llegar a conclusiones que se escapan totalmente
+de 10 que nosotros consideramos racional. Veamos algunos ejemplos:
+[2] Paradoja de Móbius: Es de carácter visual. Se trata de una figura matemática
+imposible desde nuestra perspectiva tridimensional de una banda plegada con una
+superficie de una sola cara y un solo borde, por 10 que no cuadra con nuestra distribución
+mental de los elementos.
+[3] paradoja del hotel infinito: Imaginemos que queremos construir el hotel más
+grande del mundo. A1 principio, pensamos en hacer uno de 1.000, 20.000, 500.000 o
+1.000.000 habitaciones, pero es posible que alguien 10 supere. Por ello, llegamos a la
+conclusión de que 10 mejor es construir uno con habitaciones infinitas. El problema es
+que en un hotel infinito que se llena de infinitos huéspedes, las matemáticas nos dicen
+que quedaría abarrotado. Esta paradoja expone que, para solucionar este problema,
+cada vez que, entre un nuevo huésped, los que ya estaban antes tienen que desplazarse
+a la siguiente habitación, es decir, sumar 1 a su número de habitación actual. De
+este modo, se resuelve el problema ya que cada nuevo huésped se hospedará en la
+habitación número I del hotel.
+[4] Paradoja de Russell: Está relacionada con la teoría de conjuntos y expone que en
+X lugar, todos los hombres tienen que ir afeitados, pero solo hay un barbero. Con el
+fin de no saturarlo, se establece que el barbero solo puede afeitar a aquellas personas
+que no puedan hacerlo por sí solas. La paradoja se establece cuando el barbero se
+afeite porque estará demostrando que puede afeitarse por sí solo, pero entonces estará
+rompiendo con la norma, pero si no se afeita, romperá también con la norma de ir
+afeitado, entonces, ¿qué es 10 que tiene que hacer el barbero?
+
+
+38. Dado el texto anterior, relacionar la columna de estructura con el contenido del texto.
+Estructura              Contenido
+1. Introducción         A. La forma estricta en la que el ser humano concibe la lógica es falible.
+2. Desarrollo           B. El ser humano es sumamente racional.
+3. Conclusión           C. Algunas paradojas.
+
+
+Opciones:
+
+
+a) 1A, 2B, 3C
+b) 1B, 2C, 3A
+c) 1A, 2C, 3B
+d) 1B, 2A,3C
+
+
+Respuesta: c.
+
+
+39. Según el texto anterior, los párrafos ___ y ___ presentan una relación de información ___ mayoritariamente. Seleccionar la opción que complete los espacion
+
+
+Opciones: 
+
+
+a) 1-2 - explicativa
+b) 2-3 - explicativa
+c) 1-3 - ejemplificativa
+d) 2-3 - ejemplificativa
+
+
+Respuesta: b.
+
+
+40. Dado el texto anterior, de las siguientes opciones, ¿cuál podría ser una idea secundaria del texto?
+
+
+Opciones:
+
+
+a) Otra paradoja, como la del cumpleaños
+b) El nombre del lugar en donde vive el barbero
+c) El número exacto de las habitaciones del hotel
+d) August Moebius construyó la cinta con su nombre
+
+
+Respuesta: a.
+
+
+41. El texto anterior puede clasificarse como _ debido a que es _ y su
+finalidad es _  a los lectores.
+
+
+Opciones:
+
+
+a) formal - neutral - educar
+b) formal - ecuánime - capacitar
+c) expositivo - objetivo - informar
+d) expositivo - formal - convencer
+
+
+Respuesta: c.
+
+
+42. Dado el texto anterior, ¿Qué idea sintetiza lo expuesto en el párrafo [4]?
+
+
+Opciones:
+
+
+a) El barbero está estresado siempre
+b) El barbero siempre va a romper la ley
+c) La teoría de conjuntos es contradictoria
+d) El local del barbero siempre estaba saturado
+
+
+Respuesta: c.
+
+
+44. Según el texto anterior, ¿Cuál de las siguientes ideas es compatible con el párrafo [3] del texto?
+
+
+Opciones:
+
+
+a) Lo expuesto en el párrafo explica muy claramente que hay infinitos dentro de un
+infinito.
+b) Está demostrado que la imaginación y creatividad del ser humano no tiene ni
+tendrá límites.
+c) Todas las paradojas han sido formuladas para solucionar exitosa y definitivamente
+problemas muy complejos.
+d) En un hotel con infinitas habitaciones solo es posible hospedar a infinitos huéspedes
+si estos entran en la habitación número 1.
+
+
+Respuesta: d.
+
+
+45.  ¿Qué puede deducirse del texto anterior?
+
+
+Opciones:
+
+
+a) La distribución mental de elementos de los seres humanos es tridimensional
+b) Nuestra mente es capaz de encontrar el razonamiento de una conclusión compleja
+C) El adaptar conceptos complejos al plano físico es la mejor manera de aclararlos
+d) Los problemas sociales y de organización pueden resolverse a través de paradojas
+
+
+Respuesta: a.
+
+
+46. Seleccionar la idea que representa la conclusión del texto anterior.
+
+
+Opciones:
+
+
+a) Las matemáticas siempre se valen de las paradojas para poder resolver problemas
+complejos y así simplificarlos lo más posible
+b) Las paradojas se limitan al campo de las matemáticas ya que es ahí en donde más
+se presentan debido a la complejidad de sus ramas de estudio
+c) Todos los grandes matemáticos han creado y desarrollado diversas paradojas de
+las áreas de las matemáticas en las que se hayan especializado
+d) Las paradojas representan la complejidad conceptual de un campo específico
+del saber porque su explicación no concuerda con el modo tradicional del
+pensamiento
+
+
+Respuesta: d.
+
+
+47. Considerando el texto anterior, ¿Cuál es la conclusión del párrafo [3]?
+
+
+Opciones:
+
+
+a) Lo mejor es construir un hotel con habitaciones infinitas
+b) Si existieran hoteles infinitos, siempre estarían llenos de infinitos huéspedes
+c) El concepto de infinito aún no se ha desarrollado ni comprendido en su totalidad
+d) En el hotel nunca habrá una última habitación, ya que siempre se puede añadir
+una más
+
+
+Respuesta: d.
+
+
+A UNA NARIZ
+Érase un hombre a una nariz pegado,
+érase una nariz superlativa,
+érase una nariz sayón y escriba,
+érase un peje espada muy barbado;
+
+
+era un reloj de sol mal encarado,
+érase una alquitara pensativa,
+érase un elefante boca arriba,
+era Ovidio Nasón más narizado.
+
+
+Érase un espolón de una galera,
+érase una pirámide de Egito,
+las doce tribus de narices era;
+
+
+érase un naricísimo infinito,
+frisón archinariz, caratulera,
+sabañón garrafal morado y frito.
+
+
+48. De acuerdo al texto anterior, completa los espacios en blanco: la estrofa ___ del poema cuenta con___ versos. Seleccionar una opción 
+
+
+Opciones:
+
+
+a) 1-8
+b) 2-4
+c) 1-14
+d) 2-6
+
+
+Respuesta: b.
+
+
+49. De acuerdo al texto anterior, ell verso 7 recibe el nombre de _ debido a _ que contiene.
+
+
+Opciones:
+
+
+a) onceasílabo - los hiatos
+b) endecasílabo - los hiatos
+c) onceasílabo - las sinalefas
+d) endecasílabo - las sinalefas
+
+
+Respuesta: d.
+
+
+50. ¿Qué opción sintetiza el poema anterior?
+
+
+Opciones:
+
+
+a) La sátira de un personaje figura
+b) Lo grotesco como medio de burla
+c) La apología a las narices grandes
+d) Oda a la metáfora y lenguaje figurado
+
+
+Respuesta: a.
+
+
+51. Debido a la estructura que presenta, ¿cómo se denomina el poema anterior?
+
+
+Opciones:
+
+
+a) Haikú
+b) Soneto
+c) Epopeya
+d) Romance
+
+
+Respuesta: b.
+
+
+52. Relacionar la interpretación con el número de verso del texto anterior.
+Interpretación                                              Verso
+1. Se refiere a una nariz desmesurada.                      A. 6
+2. Es una comparación con el tubo de un alambique.          B. 8
+3. Comparación con una barra larga de hierro.               C. 2 
+4. Referencia a un poeta y paronimia entre dos palabras.    D. 5
+
+
+Opciones:
+
+
+a) 1C, 2D, 3A, 4B
+b) 1D, 2A, 3B, 4C
+c) 1C, 2A, 3D, 4B
+d) 1D, 2B, 3A, 4C
+
+
+Respuesta: c.
+
+
+54. ¿Qué idea es compatible con el poema anterior? Seleccionar una opción.
+
+
+Opciones:
+
+
+a) El autor del texto tenía una fuerte fijación con la nariz de las personas
+b) Este poema es una respuesta a varios insultos que recibió Francisco de Quevedo
+c) La mayoría de los versos comienzan con la misma palabra para que sea fácil de
+recordar
+d) Francisco de Quevedo tenía una enemistad con un hombre que tenía una nariz
+peculiar
+
+
+Respuesta: d.
+
+
+55. Seleccionar la inferencia que se desprende del poema anterior.
+
+
+Opciones:
+
+
+a) El autor cosifica a la persona de quien habla al reducirla a una nariz
+b) Francisco de Quevedo seguía cabalmente los modelos de las figuras clásicas
+c) Debido a las características del poema, es evidente que está dirigido a niños
+d) Se mencionan a muchos animales en el poema porque a Francisco de Quevedo le
+gustaban mucho
+
+
+Respuesta: a.
+
+
+56. Seleccionar la opción que indique la intención del autor al escribir el poema anterior:
+
+
+Opciones:
+
+
+a) ganar fama a partir de la burla hacia otra persona
+b) escribir un poema lúdico y divertido para entretener a la gente
+c) demostrar su habilidad y dominio de la lengua y de la poesía española
+d) la deshumanización de una persona a través de una caricatura que resulta en
+cosificación
+
+
+Respuesta: d.
+
+
+57. Seleccionar una opción para completar. El poema anterior, a lo largo de todo su contenido, expone principalmente dos figuras literarias las cuales son  _ y metáfora.
+
+
+
+
+Opciones: 
+
+
+a) paradoja
+b) hipérbole
+c) comparación
+d) prosopopeya
+
+
+Respuesta: b.
+
+
+Comunicación | Competencia escrita
+
+
+58. Indicar la opción escrita correctamente.
+
+
+Opciones: 
+
+
+a) Le dijo toda la verdad a sus compañeros
+b) Para ganar deben pegarle fuerte a las pelotas
+c) Toda la manada de lobos atravesó el bosque sigilosamente
+d) Quien quiera que sean los culpables, habrá una consecuencia
+
+
+Respuesta: c.
+
+
+59. Seleccionar la opción que complete de forma correcta la siguiente oración:
+“pero _ me hizo enojar fue tu prima, no tú.”
+
+
+Opciones: 
+
+
+a) quien
+b) lo que
+c) la cual
+d) en donde
+
+
+Respuesta: a.
+
+
+60. Seleccionar la opción con un error de redacción.
+
+
+Opciones: 
+
+
+a) Aquello son las cosas por las que lloramos
+b) Los deberes es la página 25 del libro de Química
+c) Un grupo de ladrones ha sido detenido por los policías
+d) La mitad de los exploradores regresó cansada y sedienta
+
+
+Respuesta: a.
+
+
+61. Seleccionar la opción que identifique al fragmento del siguiente texto con un error.
+
+
+Yo creo que en la tienda nueva se vende mucho queso y jamón [1] porque la gente, después de
+hacer largas filas y por mucho tiempo, compran una gran cantidad de esos productos [2]. La
+tienda adquirió popularidad después de que en la plaza central habían anuncios promocionales
+de esta [3], por lo que no cabe duda de que esfuerzo, constancia y visión es indispensable para
+el éxito de un negocio [4].
+
+
+Opciones: 
+
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: c.
+
+
+62. Seleccionar la opción donde se encuentra la síntesis del siguiente texto si este está formado por una tesis, antítesis y síntesis.
+
+
+Antes de comprar una crema facial que contenga ácido hialurónico es importante revisar
+la lista de ingredientes de la misma para asegurarse de que tenga la cantidad adecuada de
+este ingrediente porque sólo así actuará efectivamente en la piel, ya que recientemente se ha popularizado el uso de cremas faciales con ácido hialurónico, e incluso, son consideradas como la mejor opción si se busca obtener grandes beneficios para la piel, pero omiten mencionar que no todas las marcas incluyen el suficiente ácido en la formulación y, por lo tanto, no se verán los resultados esperados.
+
+
+Opciones: 
+
+
+a) Las mejores cremas faciales con mayores beneficios para la piel son las que
+contienen ácido hialurónico
+b) Las cremas faciales con la cantidad correcta de ácido hialurónico producen
+beneficios para la piel
+c) La publicidad de las cremas faciales es engañosa para vender más y así obtener
+más ganancias monetarias
+d) No todas las cremas faciales con ácido hialurónico contienen la cantidad necesaria
+para producir beneficios en la piel
+
+
+Respuesta: b.
+
+
+63. ¿Cuál es la idea principal del siguiente texto? Seleccionar una opción. 
+
+
+En África central, el número uno se dice tok, tek o dik. Muchas lenguas asiáticas (y sí, también americanas) utilizan tik para el dedo índice. Y en el indoeuropeo ancestral, deik significaba señalar con el dedo (de ahí daktulos, digitus, doigt o dedo). Seguramente un testimonio de nuestro origen común. Es el poder de la lengua.
+
+
+Sampedro, X. (2019). EI poder de la lengua. EI País. Recuperado de: https://elpais.com/elpais/2019/06/12/opinion/1560354773.671599.html
+
+
+Opciones: 
+
+
+a) El poder de la lengua
+b) Las coincidencias lingüísticas
+c) El origen común de algunas lenguas
+d) La influencia del nombre del número uno
+
+
+Respuesta: c.
+
+
+64. ¿En qué opción la redacción del texto dificulta más la lectura del mismo?
+
+
+Opciones: 
+
+
+a) Los esquimales tienen centenares de palabras diferentes para distinguir entre los distintos
+matices del blanco de la nieve; por otro lado, los rusos distinguen varios tipos de azul que
+los hablantes del español denominan del mismo modo
+b) Los esquimales tienen centenares de palabras diferentes para distinguir entre los distintos
+matices del blanco de la nieve. Los rusos distinguen varios tipos de azul. Los hablantes del
+español denominan del mismo modo a todos los tipos de azul
+C) Los esquimales, por ejemplo, tienen centenares de palabras diferentes para distinguir
+entre los distintos matices del blanco de la nieve. Los rusos distinguen varios tipos de azul.
+Los hablantes del español denominan del mismo modo a todos los matices de azul
+d) Los esquimales, por ejemplo, tienen centenares de palabras diferentes para distinguir
+entre los distintos matices del blanco de la nieve. Los rusos distinguen varios tipos de azul
+que sin embargo, los hablantes del español denominamos del mismo modo
+
+
+Respuesta: b.
+
+
+65. Identificar la oración mejor redactada.
+
+
+Opciones: 
+
+
+a) Juan instaló la tubería del gas desde ayer
+b) Mi papá puso un árbol de naranjas en el jardín
+c) El agua es de las cosas que más debemos cuidar
+d) Sus hermanos le hicieron un pastel para su cumpleaños
+
+
+Respuesta: a.
+
+
+66. De acuerdo con el contexto del siguiente fragmento, reconocer el par de sinónimos
+que se encuentran en él. Seleccionar una opción.
+
+
+Cuando el frío del invierno se va junto con melancolía su blanco velo, llega la primavera y todos queremos disfrutar de un helado, pero claro, aunque nos produzca tristeza, no hay que abusar  porque el frío afecta al sistema nervioso y se ve alterado, ya que provoca dolor de cabeza.
+
+
+Opciones: 
+
+
+a) Frío - helado
+b) Blanco - claro
+c) Nervioso - alterado
+d) Melancolía - tristeza
+
+
+Respuesta: d.
+
+
+67. Seleccionar la opción con las palabras que completen adecuadamente el texto para que mantenga un sentido coherente.
+
+
+Una _ que _ el agua, _ el _ y espera cinco minutos.
+
+
+Opciones: 
+
+
+a) ves - hierba - echa - azar
+b) vez - hierba - hecha - azar
+c) vez - hierva - echa - azahar
+d) ves - hierva - hecha - azahar
+
+
+Respuesta: c.
+
+
+68. Indicar la opción con un error de ortografía.
+
+
+Opciones: 
+
+
+a) Mis mejores amigos son el enano y el pelusa
+b) El resumen de Marco es completamente sucinto
+c) Me encantó el libro Guía del autoestopista galáctico de Douglas Adams
+d) Juan siempre termina súper exhausto después de hacer dos horas de ejercicio
+
+
+Respuesta: a.
+
+
+69. Seleccionar la opción que complete con las letras correspondientes los espacios del siguiente cuento “Pomposo funeral” de Carlos Alberto Agudelo Garcia con la letra correcta.
+
+
+Después de que el _umo Pontífice infiriera que el _ancudo lleva_a sangre de su sangre,
+resol_ió hacerle un po_poso funeral.
+
+
+Opciones:
+
+
+a) Z-s-v-b-n
+b) Z-z-v-v-n
+c) S-s-b-b-m
+d) S-z-b-v-m
+
+
+Respuesta: d.
+
+
+70. Identificar el fragmento del texto redactado inadecuadamente.
+
+
+Pedro estaba nervioso porque su novia ya se había tardado [1] y él se preocupó mucho, entonces se tomó un té para calmarse y funcionó [2] porque después de eso se comportó atentamente, sigilosamente y tranquilamente [3]. Finalmente, su novia llegó y todo estaba bien, solo hubo mucho tráfico [4].
+
+
+Opciones:
+
+
+
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+Respuesta: c.
+
+
+71. Relacionar el tipo de texto con su ejemplo.
+Tipo de texto       Ejemplo
+1. Legal            A. Aquel hombre era invisible, pero nadie se percató de ello.
+2. Literario        B. Tropas gubernamentales sirias recuperan la ciudad de Alepo.
+3. Informal         C. Los peatones deben guiar su circulación bajo las siguientes reglas.
+4. Periodístico     D. Ya te la sabes: Camarón que se duerme, se 10 lleva la corriente.
+
+
+Opciones:
+
+
+a) 1C, 2D, 3A, 4B
+b) 1B, 2A, 3D, 4C
+c) 1C ,2A, 3D, 4B
+d) 1B, 2D, 3A, 4C
+
+
+Respuesta: c.
+
+
+72. Seleccionar las opciones escritas correctamente.
+1. Conque esas tenemos... Ahora sé por qué actuabas así.
+2. No me salgas conque no sabes por que lo revisamos ayer.
+3. Yo sería feliz con que vengas cada semana por que me alegra verte.
+4. Me asustó con qué seguridad lo hizo, aunque el por qué nunca lo sabremos.
+5. Llegó tarde porque hubo un accidente, no sé con qué argumento lo regañas.
+Opciones:
+
+
+
+
+a) 1,5
+b) 2,3
+c) 3,4
+d) 4,5
+
+
+Respuesta: a.
+
+
+73. ¿Qué opción está mejor redactada?
+
+
+Opciones:
+
+
+a) Todos hemos visto un mirrey alguna vez: El típico galán que se siente soñado, pudiente, guapo, bronceado y a la moda: que te saluda diciéndote ¿qué pasó paps? De hecho, podríamos decir que el pionero de los mirreyes es el legendario Luis Miguel que hoy ya vive más de restos, de glorias pasadas.
+b) Todos hemos visto un mirrey alguna vez. El típico galán que se siente soñado, pudiente, guapo, bronceado y a la moda, que te saluda diciéndote "¿qué pasó paps?" De hecho, podríamos decir que el pionero de los mirreyes es el legendario Luis Miguel, que hoy ya vive más de restos de glorias pasadas.
+c) Todos hemos visto un mirrey alguna vez: el típico galán que se siente soñado, pudiente, guapo, bronceado y a la moda; que te saluda diciéndote "¿Qué pasó paps?", De hecho podríamos decir que el pionero de los mirreyes es, el legendario Luis Miguel, que hoy ya vive más de restos de glorias pasadas.
+d) Todos hemos visto un mirrey alguna vez. El típico galán que se siente: soñado, pudiente, guapo, bronceado y a la moda. Que te saluda diciéndote ¿Qué pasó paps?. De hecho, podríamos decir, que el pionero de los mirreyes es: el legendario Luis Miguel, que hoy ya vive más de restos de glorias pasadas.
+
+
+Respuesta: b.
+
+
+74. Indicar los tecnicismos que se encuentran en el siguiente texto:
+
+
+Encefalitis espongiforme bovina: Esta enfermedad(1) está producida por Priones(2), éstos son partículas proteicas, muy resistentes(3) que se transmiten en las vacas por alimentarlas con harinast(4) de origen animal que se daban como suplemento proteico(5) y/o mineral. Actualmente es de presentación(6) muy rara y se da por consumir encéfalo(7) o carne con tejido nervioso de los animales afectados(8). Da sintomatología(9) nerviosa y no tiene cura.
+
+
+Opciones:
+
+
+a) 1, 4, 5, 6
+b) 2, 3, 6, 8
+c) 1, 3, 5, 7
+d) 2, 5, 7, 9
+
+
+Respuesta: d.
+
+
+76. En _  es donde se exponen las notas y citas que fundamentan el trabajo
+académico.
+
+
+Opciones:
+
+
+a) la conclusión
+b) la introducción
+c) el aparato crítico
+d) las fuentes de información
+
+
+Respuesta: c.
+
+
+77. Ordenar los datos que se presentan a continuación para elaborar correctamente una
+referencia bibliográfica.
+
+
+Optimización de recursos en la industria de Juan Ramos, Erick Álvarez y Francisco J. Benítez, del
+2005 por Caligrama en la Cd. De México, México.
+
+
+Opciones:
+
+
+a) Ramos, J., et. al. (2005). Optimización de recursos en la industria. México: Caligrama.
+b) Ramos, J., et. al. (2005). Optimización de recursos en la industria. México: Editorial
+Caligrama.
+c) Ramos, J., Álvarez, E. y Benítez F. J. (2005). Optimización de recursos en la
+industria. México: Caligrama
+d) Ramos, J., Álvarez, E. y Benítez F. (2005). Optimización de recursos en la industria.
+México, Ciudad de México: Caligrama.
+
+
+Respuesta: c.
+
+
+Inglés
+
+
+78. What's Sofía's surname?
+
+
+Hi! My name's Gabriela McMahons. I'm 16 years old. I'm American. I've got a big collection of
+songs online. My favorite singers are Taylor Swift, Britney Spears, and Selena Gomez, I really love
+them. My father is called Jhon. He's from Mexico and my mother's from Spain, her name's Sofia.
+
+
+Opciones: 
+
+
+a) Swift
+b) Spears
+c) Gomez
+d) McMahons
+
+
+Respuesta: d.
+
+
+79. How many relatives does Michael have?
+
+
+Hello! My name's is Michel. I've got a small family. It's just my mother Rosy and me. My extended family is made up by my grandparents Gaby and Maurice, my three uncles, Jhon, Marc and Anthony and their wives, one Aunt Sofia and my Six cousins. My best friend Paul has got a large family because he's got 4 brothers and 3 sisters and too many relatives.
+
+
+Opciones: 
+
+
+a) 17
+b) 16
+c) 15
+d) 7
+
+
+Respuesta: c.
+
+
+80. Who's Kevin's mother's daughter that is not Claire?
+
+
+My name is Kevin Miller. My mum's name is Helen. My father's name is David. My twin sisters' names are Claire and Margaret. We've got a dog. Claire, Margaret and me's dog's name is Molly Molly's favorite toy is a rubber ball. My mother's sister's name is Emily and she's married to Tom.
+My father's brother's name is Mathew and he's married to Kelly. They have got a son. Mathew
+and Kelly's son's name is Sam. Cousin of mine is very cute.
+
+
+Opciones: 
+
+
+a) Kelly
+b) Molly
+c) Claire
+d) Margaret
+
+
+Respuesta: d.
+
+
+81. Etna's party is on June:
+
+
+Hi! This is Etna. I'm calling to you because I'm having my birthday party on June second at night and you are invited, you can arrive at eight o' clock if you want but please don't forget to bring your swimsuit, googles and one or two towels. Please confirm!
+
+
+Opciones: 
+
+
+a) 2
+b) 3
+c) 2nd
+d) 3rd
+
+
+Respuesta: c.
+
+
+82. The phrase marked with the superscript 1 means that they:
+They're texting; they're tweeting; they're googling; they're checking social media; they're taking selfies; they're listening to music. And yes, they're even working (1). They're always
+connected. These are the "digital natives.Born at the end of the twentieth century and the
+beginning of the twenty-first century digital natives don't know life without technology. More
+and more younger people are working from home, in coffee shops, or anywhere. They switch
+back and forth between their social and professional lives. They don't see the need to separate the two.
+
+
+Opciones: 
+
+
+a) are untried
+b) are unskilled
+c) are multitask
+d) have little experience
+
+
+Respuesta: c.
+
+
+83. Donna likes _ but she doesn't like _ since she was a toddler
+Donna 's daily food:
+I usually have some cereals for breakfast in the mornings. I like vegetables and fruit, specially
+mushroom soup and my favorite fruit is tangerine. I don't like fat or fast food. Some foods, like
+nuts, milk, cream, snacks contain fats and carbohydrates. I don 't like any kind of saturated fat. I always take care of my health by eating healthy food. I exercise two days a week. I drink a lot of water after the gym.
+Today, there is some chicken and spinach salad for lunch. There are some potatoes in the salad but there aren't any carrots, It looks delicious!
+Opciones: 
+
+
+a) fat food - tangerine
+b) fast food - tangerine
+c) vegetables and fruit - saturated fat
+d) vegetables and fruit - fats and carbohydrates
+
+
+Respuesta: c.
+
+
+85. What's Melissa doing? She's:
+
+
+Subject: Things we are doing today!
+To: molly@gmail.com
+Hi Molly
+I hope you are doing well!
+I'm here with my brother Paul, his friend Tim and my sisters. My brother's playing computer
+games at the moment. Jim is watching YouTube videos, he is not watching TV now. Katherine
+is surfing in the internet and sending photos to facebook. Tim is chatting on his cell phone with his high school girlfriend Sofia. And What about you? What are you doing?
+I hope you received my letter last week.
+Best,
+Melissa
+
+
+Opciones: 
+
+
+a) writing a letter
+b) writing an email
+c) surfing in the internet
+d) sending photos to facebook
+
+
+Respuesta: b.
+
+
+86. Sheila's cellphone was in the:
+Hi Marc! This is Sheila. Let me tell you what happened to me yesterday at night. I was in my
+kitchen, having dinner when I heard something rare in my bedroom, like steps walking upstairs, I got scared because I was alone, suddenly in that moment my cellphone rang and it was in the living room, next to the armchair, I wanted to answer it but the light went off and I couldn't find it, then I walked through the hall because I wanted to ran away of my house when my cat crossed between my feet, I couldn't believe it. It was my cat!
+
+
+Opciones: 
+
+
+a) kitchen
+b) bedroom
+c) bathroom
+d) living room
+
+
+Respuesta: d.
+
+
+87. What did Sheila want to do when her cat appeared?
+
+
+Hi! This is Etna. I'm calling to you because I'm having my birthday party on June second at night and you are invited, you can arrive at eight o' clock if you want but please don't forget to bring your swimsuit, googles and one or two towels. Please confirm!
+
+
+Opciones: 
+
+
+a) Run away
+b) Have dinner
+c) Watch a film
+d) Take a shower
+
+
+Respuesta: a.
+
+
+
+
+
+
+Historia
+
+
+
+
+
+
+88. Ordenar jerárquicamente los hechos que conformaron el proceso de conquista del
+imperio mexica.
+
+
+1. Primeras expediciones organizadas en Mesoamérica
+2. Primer enfrentamiento con los mayas en México
+3. Descubrimiento de América
+4. Expedición de conquista en México
+5. Hernán Cortés en Tenochtitlan
+6. Culmina la conquista de México con la caída de Tenochtitlan y el nacimiento de la Nueva
+España
+7. Muerte de Moctezuma y la noche triste
+
+
+Opciones: 
+
+
+a) 1, 5, 2, 6, 4, 3, 7
+b) 2, 6, 1, 7, 3, 5, 4
+c) 3, 1, 4, 2, 5, 7, 6
+d) 4, 7, 3, 1, 6, 2, 5
+
+
+Respuesta: c.
+
+
+89. Seleccionar las estrategias utilizadas por Porfirio Díaz para mantenerse en el poder
+como dictador.
+
+
+1. Dio apoyos económicos a los más pobres para que votaran por él.
+2. Política de conciliación con los grupos de oposición en donde se incluyó al clero.
+3. Inicio una política de represión, proclamando la ley marcial e impulso la pena de muerte y
+la ley fuga.
+4. Dio carta abierta a la prensa para mostrar que no existía ningún tipo de represión en su
+gobierno.
+5. Obtuvo créditos externos y el reconocimiento de Estados Unidos 10 que permitió la confianza de la opinión pública.
+6. Centralización del poder en una persona al dominar al dominar al legislativo y judicial e
+imponer gobernadores adictos a Díaz.
+
+
+Opciones:  
+
+
+
+
+a) 1, 2, 3, 5
+b) 2, 3, 5, 6
+c) 1, 4, 5, 6
+d) 2, 3, 4, 5
+
+
+Respuesta: b.
+
+
+90. Seleccionar una opción. ¿Cuál fue eI nombre del grupo de intelectuales y políticos que influyeron en la política
+del porfiriato?
+
+
+Opciones:  
+
+
+a) Liberales
+b) Científicos
+c) Intelectuales
+d) Conservadores
+
+
+Respuesta: b.
+
+
+91. Se conoce como _ al modelo empleado en México entre 1954 y 1970 que
+aspiraba a lograr una estabilidad económica para permitir un desarrollo sostenible y
+continuado.
+
+
+Opciones:  
+
+
+a) cardenismo
+b) milagro mexicano
+c) sexenios en crisis
+d) desarrollo acelerado
+
+
+Respuesta: b.
+
+
+92. Indicar una consecuencia de la globalización.
+
+
+Opciones:  
+
+
+a) Establecimiento claro de las fronteras económicas
+b) Implementación cultural del chino como idioma universal
+c) Creación de normas y estándares para la elaboración de productos
+d) Beneficios económicos y políticos para todas las naciones del mundo
+
+
+Respuesta: c.
+
+
+93. Relacionar el concepto con su definición.
+
+
+Concepto                        Definición
+1. Modo de producción           A. Es lo que se necesita para producir y está implícito el
+                                desarrollo de la ciencia y tecnología.
+2. Fuerzas productivas          B. Es la forma de organización de una sociedad con el fin de
+                                producir y repartir lo producido.
+3. Relaciones de producción     C. Es la distribución de funciones entre los integrantes de un
+                                grupo o sociedad.
+4. Medios de producción humanos         D. Son aquellas partes de la naturaleza que los seres han adaptado, transformado o domesticado.
+
+
+Opciones:  
+
+
+a) 1A, 2B, 3C, 4D
+b) 1B, 2C, 3D, 4A
+c) 1A, 2D, 3B, 4C
+d) 1B, 2D, 3C, 4A
+
+
+Respuesta: d.
+
+
+94. Ordenar de forma cronológica los eventos históricos de la Guerra Fría.
+
+
+1. Revolución Cubana
+2. Guerra de Corea
+3. Revolución China
+4. Fin de la segunda Guerra Mundial
+
+
+Opciones:  
+
+
+a) 1, 2, 3, 4
+b) 2, 1, 4, 3
+c) 3, 4, 1, 2
+d) 4, 3, 2, 1
+
+
+Respuesta: c.
+
+
+95. Relacionar el modelo económico con los indicadores que le corresponden.
+Modelo                          Indicadores
+1. Desarrollo económico         A.Esperanza de vida, promedio
+                                escolaridad, etc.
+2. Crecimiento económico        B.IDH y PEA
+3. Subdesarrollo económico      C.PIB
+
+
+Opciones:  
+
+
+a) 1A, 2B, 3C
+b) 1B, 2C, 3A
+c) 1A, 2C, 3B
+d) 1B, 2A, 3C
+
+
+Respuesta: b.
+
+
+96. Seleccionar el plan empleado por el presidente José López Portillo con la finalidad de
+sacar a México de la crisis económica que estaba atravesando en ese momento.
+
+
+Opciones:  
+
+
+a) Desarrollo compartido
+b) Desarrollo estabilizador
+c) Crecimiento hacia adentro
+d) Modelo de crecimiento acelerado
+
+
+Respuesta: d.
+
+
+97. Ordenar jerárquicamente las actividades económicas de los sectores primarios,
+secundarios y terciarios.
+1. Educación, transporte y bancos.
+2. Industria, construcción y artesanías.
+3. Agricultura, pesca y ganadería.
+4. Tecnología, cultura y consultoría.
+
+
+Opciones:  
+
+
+a) 1, 2, 3
+b) 2, 3, 4
+c) 3, 2, 1
+d) 4, 1, 2
+
+
+Respuesta: c.
+
+
+
+
+
+
+Biología
+
+
+
+
+
+
+
+
+98. Cuál es la estructura de doble capa fosfolipídica que funciona como una barrera y delimita a la célula con respecto a su medio.
+
+
+Opciones:  
+
+
+a) Citoesqueleto
+b) Envoltura nuclear
+c) Membrana plasmática
+d) Retículo endoplasmático
+
+
+Respuesta: c.
+
+
+99. Teoría científica que establece que "todo ser vivo está formado por una unidad básica,
+la cual es la unidad funcional de todos los organismos y además procede de otras
+preexistentes".
+
+
+Opciones:  
+
+
+a) Celular
+b) Sintética
+c) Evolutiva
+d) Endosimbiótica
+
+
+Respuesta: a.
+
+
+100. Asociar la lista de biomoléculas con la función que realizan en la célula.
+Biomolecular                    Clasificación
+1. Glucosa                      A. Transporte de oxígeno.
+2. Fosfolípido                  B. Es constituyente importante de la membrana celular.
+3. Hemoglobina                  C. Principal fuente de energía para la célula.
+4. Ácido desoxirribonucleico    D. proporciona la información para la síntesis de proteínas.
+
+
+Opciones:  
+
+
+a) 1A, 2B, 3C, 4D
+b) 1A, 2C, 3D, 4B
+c) 1C, 2D, 3A, 4B
+d) 1C, 2B, 3A, 4D
+
+
+Respuesta: d.
+
+
+101. Asociar la lista de contaminantes con la actividad que los produce.
+Contaminantes                           Actividad
+1. Gas metano                           A. Industria
+2. Residuos radiactivos                 B. Ganadería
+3. Aumento de nitrógeno en el suelo     C. Planta Nucleoeléctrica
+4. Compuestos fluoroclorocarbonados     D. Cultivo de leguminosas
+
+
+Opciones:  
+
+
+a) 1A, 2B, 3C, 4D
+b) 1B, 2C, 3D, 4A
+c) 1B, 2D, 3A, 4C
+d) 1A, 2C, 3B, 4D
+
+
+
+
+Respuesta: b.
+
+
+102. El piojo es un _ que vive sobre su presa.
+
+
+Opciones:  
+
+
+a) depredador
+b) comensal
+c) huésped
+d) parásito
+
+
+Respuesta: d.
+
+
+103. Tipo de terapia cuya función biológica es, principalmente, la reparación y regeneración
+de células defectuosas del cuerpo. Estas se trasplantan con un fin determinado y en
+alta concentración para promover la autocuración del tejido.
+
+
+Opciones:  
+
+
+a) Células madre
+b) Trasplante de órganos
+c) Transfusión sanguínea
+d) Clonación terapéutica mixta
+
+
+Respuesta: a.
+
+
+104. ¿Cómo se llama a los caracteres hereditarios que un individuo manifiesta exteriormente?
+a) Dominante
+b) Genotipo
+c) Recesivo
+d) Fenotipo
+
+
+Respuesta: d.
+
+
+
+
+106. Seleccionar la opción que complete la siguiente oración: La teoría de la _ postulada por _ hace énfasis en la supervivencia de
+los organismos mejor adaptados.
+
+
+Opciones:  
+
+
+a) síntesis - Charles Darwin
+b) selección Natural - Lamarck
+c) fisicoquímica - Russel Wallace
+d) selección Natural - Charles Darwin
+
+
+Respuesta: d.
+
+
+Química
+
+
+107. Relacionar el número cuántico con su representación en el espacio.
+Número cuántico         Representación en el espacio
+1. n                    A. Forma del orbital
+2. l                    B. Giro del electrón
+3. m                    C. Nivel energético
+4. s                    D. Orientación espacial
+
+
+Opciones:
+
+
+a) 1C, 2A, 3D, 4B
+b) 1C, 2B, 3A, 4D
+c) 1D, 2A, 3C, 4B
+d) 1D, 2C, 3B, 4A
+
+
+Respuesta: a.
+
+
+108. Identificar el conjunto de elementos que tiene el mismo número de electrones de
+valencia en su nivel externo.
+
+
+Opciones:
+
+
+a) Al, Si, P
+b) Na, K, Li
+c) Na, Mg, Al
+d) Mg, Ca, Rb
+
+
+Respuesta: b.
+
+
+110. Ordenar de menor a mayor la actividad química metálica de los siguientes elementos.
+1. Ca
+2. Na
+3. Al
+4. Mg
+5. K
+6. Ba
+
+
+Opciones:
+
+
+a) 1, 2, 4, 5, 3, 6
+b) 1, 3, 5, 4, 6, 2
+c) 2, 5, 1, 3, 6, 4
+d) 3, 4, 2, 1, 5, 6
+
+
+Respuesta: d.
+
+
+112. Relacionar el principio con su enunciado.
+Principio                   Enunciado
+1. Hund                     A. Es imposible encontrar dentro del átomo dos electrones que tengan sus cuatro números cuánticos iguales.
+2. Exclusión de Pauli       B. Al entrar un nuevo electrón a un átomo se colocará en el orbital de menor energía.
+3. Edificación progresiva   C. Los electrones permanecen sin aparear con espines paralelos en orbitales de igual energía  hasta que cada uno tenga un electrón.
+
+
+Opciones:
+
+
+a) 1A, 2B, 3C
+b) 1B, 2C, 3A
+c) 1C, 2A, 3B
+d) 1B, 2A, 3C
+
+
+Respuesta: c.
+
+
+113. Seleccionar el elemento químico a partir de los siguientes números cuánticos:
+n = 4, l = O, m = O, s = + ½
+
+
+Opciones:
+
+
+a) Ni
+b) cu
+c) Zn
+d) Fe
+
+
+Respuesta: b.
+
+
+114. Seleccionar la opción que indique la relación porcentual del nitrógeno para el compuesto Ca Subscript[(Subscript[NO, 3]), 2] cuyo peso fórmula es 164:
+
+
+Opciones:
+
+
+a) 24
+b) 17
+c) 59
+d) 34
+
+
+Respuesta: b.
+
+
+115. Si 2000 mL de agua disuelven 8000 mg de hidróxido de sodio (NaOH), ¿cuál es la
+concentración en molaridad de la solución resultante?
+
+
+Opciones:
+
+
+a) O.1M
+b) 10 M
+c) 0.01 M
+d) 0.00001 M
+
+
+Respuesta: a.
+
+
+116. Un gas _ no tiene fuerzas de atracción, las colisiones son perfectamente elásticas
+y ocupan el mismo volumen en condiciones normales de presión y temperatura.
+
+
+Opciones:
+
+
+a) real
+b) ideal
+c) volátil
+d) nobles
+
+
+Respuesta: b.
+
+
+119. Relacionar los hidrocarburos con su fórmula general.
+
+
+Hidrocarburos   Fórmula general
+1. Alquenos     A. Subscript[C, n] Subscript[H, 2 n + 2]
+2. Alquinos     B. Subscript[C, n] Subscript[H, 2 n]
+3. Alcanos      C. Subscript[C, n] Subscript[H, 2 n - 2]
+
+
+Opciones:
+
+
+a) 2B, 1A, 3C
+b) 2B, 1C, IA
+c) 3A, 2B, 1C
+d) 3A, 2C, 1B
+
+
+Respuesta: d.
+
+
+120. Ordenar los hidrocarburos cíclicos de forma descendente, de acuerdo con el número
+de carbonos que tienen.
+
+
+1. Ciclopropano
+2. Ciclopentano
+3. Ciclohexano
+4. Ciclobutano
+
+
+Opciones:
+
+
+a) 3, 2, 4, 1
+b) 3, 1, 4, 2
+c) 4, 3, 2, 1
+d) 4, 3, 1, 2
+
+
+Respuesta: a.
+
+
+121. Calcular los gramos de cobre al 70% de pureza, que se requieren para producir 5 gramos de sulfuro cúprico, considerando la siguiente reacción:
+                    Cu      +   S   \[RightArrow] CuS
+Peso atómico (g/mol) 63.5       32      95.5
+
+
+Opciones:
+
+
+a) 2.88
+b) 3.32
+c) 4.88
+d) 5.35
+
+
+Respuesta: c.
+
+
+122. El amoniaco gaseoso Subscript[NH, 3] se emplea como fertilizante al ser inyectado a las tierras de cultivo de cereales. Indicar la masa de amoniaco contenido en un carro tanque de 5000 L, a la presión de 4 atm y 20°c.
+
+
+Opciones:
+
+
+a) 14.13 kg
+b) 15.19 kg
+c) 141.3 ton
+d) 151.5 ton
+
+
+Respuesta: a.
+
+
+123. Seleccionar la expresión de la constante de equilibrio que corresponde a la siguiente
+reacción: 
+
+
+    Subscript[N, 2 (g)] + 3 Subscript[H, 2 (g)] \[RightArrowLeftArrow] 2 Subscript[NH, 3 (g)]
+
+
+Opciones:
+
+
+a) Subscript[K, eq] = [Subscript[NH, 3]]/[Subscript[H, 2]][Subscript[N, 2]]
+b) Subscript[K, eq] = [Subscript[H, 2]][Subscript[N, 2]]/[Subscript[NH, 3]]
+c) Subscript[K, eq] = [Subscript[NH, 3]]^2/([Subscript[H, 2]]^3)[Subscript[N, 2]]
+d) Subscript[K, eq] = [Subscript[N, 2]][Subscript[NH, 3]]/[Subscript[H, 2]]
+
+
+Respuesta: c.
+
+
+Física
+
+
+124. Representan aquellas propiedades físicas que poseen magnitud, dirección y sentido.
+
+
+Opciones:
+
+
+a) Vectores
+b) Escalares
+c) Racionales
+d) Derivadas
+
+
+Respuesta: a.
+
+
+125. Dados los vectores unitarios a=2i-j+k , b=3i+4j+2k  seleccionar la opción que represente  el área del paralelogramo que tiene por lados a esos dos vectores.
+
+
+
+
+Opciones:
+
+
+a) 77.2 u^2
+b) 12.6 u^2
+c) -14.7 u^2
+d) -34.7 u^2
+
+
+Respuesta: b.
+
+
+126. Calcular el vector unitario a la dirección positiva del vector A=2i + j +2k
+
+
+Opciones:
+
+
+a) AngleVector[A]=A
+b) AngleVector[A] =3 * AngleVector[A]
+c) A=(1/3)A
+d) AngleVector[A]=(1/3)A
+
+
+Respuesta: d.
+
+
+
+
+127. Un automóvil viaja 20 km al norte y luego a 35 km en una dirección 60° al noroeste.
+Seleccionar la opción de la magnitud del vector resultante del automóvil.
+
+
+
+
+
+
+Opciones:
+
+
+a) 30.41 km
+b) 48.21 km
+c) 51.41 km
+d) 62.41 km
+
+
+Respuesta: b.
+128. Seleccionar una opción que calcule el tiempo en que tarda en caer a la superficie si un objeto en reposo se deja caer libremente desde una altura de 80 m, considerar g=9.81 m/s^2
+
+
+
+
+Opciones:
+
+
+a) 1.05 s
+b) 2.02 s
+c) 4.03 s
+d) 5.04 s
+
+
+Respuesta: c.
+
+
+
+
+129. Seleccionar la opción que calcule  el alcance horizontal de la pelota en 1.8 s ,  si un jugador le pega a una pelota en un ángulo de 45° con respecto a la horizontal y alcanza una velocidad de 20m/s . Considerar g = 10m/(s^2)
+
+
+
+
+Opciones:
+
+
+a) x = 15.5 m
+b) x = 17.9 m
+c) x = 18.2 m
+d) x = 28.3 m
+
+
+Respuesta: d.
+
+
+130. Seleccionar una opción que calcule  el coeficiente de fricción dinámica.
+ Un auto de 1500 kg viaja a 70 km/h. De repente, los frenos bloquean las llantas y derrapa tras 6 s, el auto logra frenar totalmente. 
+
+
+Opciones:
+
+
+a) 0.15
+c) 0.33
+b) 0.23
+d) 0.50
+
+
+Respuesta: c.
+
+
+131. Qué volumen ocupará 2000 kg de alcohol si la densidad del líquido al cual se sumergen es de 790 kg/(m^3).
+
+
+Opciones:
+
+
+a) V = 2.53 m^3
+b) v = 3.72 m^3
+c) V = 41.27 m^3
+d) V = 52.2 m^3
+
+
+Respuesta: a.
+
+
+132. Un orificio en un recipiente de agua tiene un área de sección transversal de 1 cm^2 . ¿Cuál es el gasto de agua del tanque si el nivel del agua en el mismo está 4 m por encima de la abertura?
+
+
+Opciones:
+
+
+a) 2.21 m^3/s
+b) 8.85 x10^-4 m^3/s
+c) 9.85 x10^-5 m^3/s
+d) 10.85 x10^-6 m^3/s
+
+
+Respuesta: b.
+
+
+133. Seleccionar la opción que calcule  la presión hidrostática en el fondo de un barril que tiene 1.2 m de profundidad está lleno de gasolina y cuya densidad es de 680 kg^3/m.  Considerar g=9.81 m/s^2
+
+
+Opciones:
+
+
+a) Ph=4004.70 Pa
+b) Ph=5002.71 Pa
+c) Ph=6003.72 Pa
+d) Ph=8004.9 Pa
+
+
+Respuesta: d.
+
+
+134. Calcular la equivalencia en grados Fahrenheit de 60 °C.
+
+
+Opciones:
+
+
+a) 140.0 °F
+b) 211.6 °F
+c) 480.7 °F
+d) 620.5 °F
+
+
+Respuesta: a.
+
+
+135. La eficiencia real de un motor es el 60% de su eficiencia máxima. El motor opera entre
+las temperaturas de 850 K y 400 K. ¿Cuánto trabajo realiza en cada ciclo si se absorben
+1500 J de calor?
+
+
+Opciones:
+
+
+a) 200 J
+b) 477 J
+c) 800 J
+d) 1600 J
+
+
+Respuesta: b.
+
+
+136. ¿Cuál es la intensidad del campo eléctrico a una distancia de 3 m de una carga de 16µc?
+
+
+Opciones:
+
+
+a) 7 x 10^3  N/C
+b) 16 x 10^3  N/C
+c) 47 x 10^3  N/C
+d) 56 x 10^3  N/C
+
+
+Respuesta: b.
+
+
+137. ¿Cuál es la intensidad del campo eléctrico a 3 m de la superficie de una esfera de 30 cm de diámetro cuya densidad de carga superficial es de 9 nC/m^2?
+
+
+Opciones:
+
+
+a) 1.45 N/C
+b) 1.93 N/C
+c) 2.54 N/C
+d) 3.45 N/C
+
+
+Respuesta: c.
+
+
+138. Una bobina compuesta por 100 espiras pasa por un Iman en forma de U desde un punto donde el flujo magnético es 2x10^-3 Wb, a otro en el que este es iguala 4x10^-3 Wb. Este recorrido lo realiza en un tiempo de 2x10^1 s. Calcular la fem promedio inducida sobre la bobina.
+
+
+Opciones:
+
+
+a) 100 v
+b) 1.5 v
+c) -0.5 v
+d) -1 V
+
+
+Respuesta: d.
+
+
+139. Calcular la velocidad de la luz cuando atraviesa un vidrio que tiene un índice de
+refracción de 2. Considerar la velocidad de la luz en el vacío de 300000 km/s.
+
+
+Opciones:
+
+
+a) 150000 km/s
+b) 150000 m/s
+c) 210000 km/s
+d) 210000 m/s
+
+
+Respuesta: a.
+
+
+140. Una fuente sonora estática tiene una frecuencia de 800 Hz un día en el que la velocidad
+del sonido es de 340 m/s. ¿Cuántos Hz de frecuencia escuchará una persona que se
+aleja de la fuente a una velocidad de 30 m/s?
+
+
+Opciones:
+
+
+
+
+a) 454 Hz
+b) 70.58 Hz
+c) 80.2 Hz
+d) 729.4 Hz
+
+
+Respuesta: d.
